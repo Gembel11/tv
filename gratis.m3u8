@@ -347,11 +347,11 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="SPORTS", Champion TV 2
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="SPORTS", UseeSports 1
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="SPORTS", UseeSports 2
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/ElevenSports_1.png" tvg-name="ELEVEN SPORTS 1" group-title="SPORTS",ELEVEN SPORTS 1
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://sport-tv-guide.live/images/stations/a1500.png" tvg-name="ELEVEN SPORTS 1" group-title="SPORTS",ELEVEN SPORTS 1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ElevenSports_2.png" tvg-name="ELEVEN SPORTS 2" group-title="SPORTS",ELEVEN SPORTS 2
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://sport-tv-guide.live/images/stations/a633.png" tvg-name="ELEVEN SPORTS 2" group-title="SPORTS",ELEVEN SPORTS 2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/ElevenSports_3.png" tvg-name="ELEVEN SPORTS 3" group-title="SPORTS",ELEVEN SPORTS 3
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://sport-tv-guide.live/images/stations/a1502.png" tvg-name="ELEVEN SPORTS 3" group-title="SPORTS",ELEVEN SPORTS 3
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="SPORTS", Fox Sport 1
 https://livecdn.fptplay.net/qnetlive/foxsports1_2000.stream/chunklist.m3u8
