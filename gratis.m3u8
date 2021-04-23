@@ -249,17 +249,17 @@ https://nonton.site:8443/6894864475/7163819284/29604
 https://nonton.site:8443/6894864475/7163819284/29603
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="https://i.ibb.co/WHS5GLc/fox.png" group-title="MOVIES",FOX
-http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21387.m3u8
+http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX ACTION MOVIES ID" tvg-logo="https://i.ibb.co/zHYS8sP/foxactionmovies.png" group-title="MOVIES",FOX ACTION MOVIES
-https://nonton.site:8443/6894864475/7163819284/99
+http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES" tvg-logo="https://i.ibb.co/9WJBzBH/foxmovies.png" group-title="MOVIES",FOX MOVIES
-http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21390.m3u8
+http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="https://i.ibb.co/N2QyPx7/foxlife.png" group-title="MOVIES",FOX LIFE
-http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21398.m3u8
+http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX CRIME" tvg-logo="https://i.ibb.co/Ch6wScc/foxcrime.png" group-title="MOVIES",FOX CRIME
-http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21394.m3u8
+http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX FAMILY MOVIES" tvg-logo="https://i.ibb.co/MVtvTyF/foxfamilymovies.png" group-title="MOVIES",FOX FAMILY MOVIES
-http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/21
+http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
 #EXTINF:-1 tvg-id="FOX COMEDY" tvg-name="FOX COMEDY" tvg-logo="https://i.pinimg.com/474x/ed/f4/f4/edf4f4f06bd7b5544b3a2d9e1b327988--comedy-foxes.jpg" group-title="MOVIES",FOX COMEDY
 http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21396.m3u8
 
@@ -701,7 +701,7 @@ http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" tvg-id="TVN" group-title="KOREAN", TVN (Video)
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=7f687767ccf20fcea1c9dc4a5adc2326102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="KOREAN", TVN MOVIES 
-https://fikrulmkc.my.id/bagus/usee-tvnmovies.m3u8
+http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_arirang_small.png" group-title="KOREAN", Arirang
 http://36.37.252.114:888/Apple/OneTV-039/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kbsworld_small.png" group-title="KOREAN", KBS World 
