@@ -429,11 +429,10 @@ http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_y1y9xW3DmWRguard-I1R8QYBkvV5p8KGCg&usqp=CAU",BT Sport 2 HD
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_nFv0hF0YjEtd7GkPn207jzQb9Z_Z29rqwg&usqp=CAU",BT Sport 3 HD
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png" group-title="SPORTS",BT Sport 1
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/ec9b51d7a3622f6.m3u8
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png" group-title="SPORTS",BT Sport 2
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/c2639378ae416b1.m3u8
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-3-uk.png" group-title="SPORTS",BT Sport 3
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b57fe115af0e28a.m3u8
 
 #EXTINF:-1 tvg-logo="http://vip-tv.biz/uploads/posts/2020-05/1589877958_1589711479_1587969202_setanta1.png" group-title="SPORTS",  Setanta Sports 1
 http://92.43.140.204/s81/01.m3u8
