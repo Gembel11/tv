@@ -131,7 +131,7 @@ http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="KIDS", Baby First
-https://fikrulmkc.my.id/bagus/usee-babyfirst.m3u8
+https://karapuztv.fenixplustv.xyz/content/33418/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="KIDS", Baby TV
 https://nonton.site:8443/novi/novi123/296
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="KIDS", Boomerang
@@ -145,9 +145,9 @@ https://fikrulmkc.my.id/bagus/usee-davinci.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="DISNEY" tvg-logo="https://toppng.com/uploads/preview/new-disney-channel-logo-vector-free-download-11574247903pfuddm63lv.png" group-title="KIDS", DISNEY CHANNEL
 https://nonton.site:8443/novi/novi123/37400
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png?v=2.0.0.13" group-title="KIDS", Duck TV
-https://fikrulmkc.my.id/bagus/usee-ducktv.m3u8
+http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="KIDS", Dreamworks
-https://fikrulmkc.my.id/bagus/usee-dreamworks.m3u8
+http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="KIDS", Dunia Anak
 https://fikrulmkc.my.id/bagus/usee-duniaanak.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bg764mY/hiphip.png" group-title="KIDS", HipHip Horee
@@ -161,11 +161,7 @@ https://nonton.site:8443/novi/novi123/522
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="KIDS", Nickelodeon
 https://fikrulmkc.my.id/bagus/usee-nickelodeon.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png?v=2.0.0.13" group-title="KIDS", Da Vinci Learning
- 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="KIDS",DISNEY JUNIOR
-http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/23
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="KIDS",DISNEY JUNIOR
-http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/24
+https://autopilot.catcast.tv/content/38105/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k5DFZhKZ/SPACETOON.png" group-title="KIDS",SPACETOON
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1596438578.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PFvGNrB/zoomoo.png" group-title="KIDS", Zoo Moo 
@@ -448,16 +444,18 @@ http://ott-cdn.ucom.am/s81/01.m3u8
 http://ott-cdn.ucom.am/s82/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="SPORTS",Sony Ten 1
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/60
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="SPORTS",Sony Ten 2
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/61
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="SPORTS",Sony Ten 3
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/62
+
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/ufY58P.jpg" group-title="SPORTS",Sony Six
 http://208.115.215.42/SonY_Six_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://guljaj.com/kanaly/42.jpg",Футбол 1HD
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://guljaj.com/kanaly/43.jpg",Футбол 2HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://guljaj.com/kanaly/42.jpg",Футбол 1
+https://s1.idata.uz/stch_temp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://guljaj.com/kanaly/43.jpg",Футбол 2
+http://185.74.7.220:8080/football2/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://guljaj.com/kanaly/44.jpg",Футбол 3HD
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_tv.png" group-title="SPORTS",Матч!
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_tv.png" group-title="SPORTS",Матч!1
