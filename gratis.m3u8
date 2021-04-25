@@ -133,7 +133,7 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w41736285
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BABYFIRST-SD-720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="KIDS", Baby First
 https://karapuztv.fenixplustv.xyz/content/33418/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="KIDS", Baby TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnMT1rYT/BABY-TV.png" group-title="KIDS", Baby TV
 https://nonton.site:8443/novi/novi123/296
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="KIDS", Boomerang
 http://101.71.255.229:6610/zjhs/2/10026/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -143,7 +143,7 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
 http://51.52.156.22:8888/http/003
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5jHf5qq/davinci.png" group-title="KIDS", DaVinci
 http://101.71.255.229:6610/zjhs/2/10030/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-ID="" tvg-name="DISNEY" tvg-logo="https://toppng.com/uploads/preview/new-disney-channel-logo-vector-free-download-11574247903pfuddm63lv.png" group-title="KIDS", DISNEY CHANNEL
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY" tvg-logo="https://i.imgur.com/5ZWo1R6.png" group-title="KIDS", DISNEY CHANNEL
 https://nonton.site:8443/novi/novi123/37400
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png?v=2.0.0.13" group-title="KIDS", Duck TV
 http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
@@ -640,7 +640,7 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZV1xoC7.png" group-title="KNOWLEDGE",AFN
 https://fikrulmkc.my.id/bagus/usee-afc.m3u8
-#EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="KNOWLEDGE", ANIMAL PLANET
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zCiKeXC.png" group-title="KNOWLEDGE", ANIMAL PLANET
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="KNOWLEDGE", Discovery
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
@@ -676,7 +676,7 @@ http://210.210.155.35/qwr9ew/s/s16/01.m3u8
 http://210.210.155.35/qwr9ew/s/s17/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sW85XB1/abc.png" group-title="NEWS", ABC Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s47135/images/logoq.png" group-title="NEWS", Bloomberg
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM9ThbT3/logo-bloomberg-small1.png" group-title="NEWS", Bloomberg
 http://45.126.83.51/uq2663/h/h03/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_newsasia_small.png?v=2.0.0.13" group-title="NEWS", CNA
 http://45.126.83.51/uq2663/h/h29/01.m3u8
@@ -716,8 +716,8 @@ http://210.210.155.35/uq2663/h/h08/01.m3u8
 http://185.180.221.194:8278/streams/d/One/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" tvg-id="TVN" group-title="KOREAN", TVN
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" tvg-id="TVN" group-title="KOREAN", TVN (Video)
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=7f687767ccf20fcea1c9dc4a5adc2326102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" tvg-id="TVN" group-title="KOREAN", TVN 
+http://185.180.221.194:8278/streams/d/TVN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="KOREAN", TVN MOVIES 
 http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_arirang_small.png" group-title="KOREAN", Arirang
