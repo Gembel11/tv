@@ -310,6 +310,17 @@ https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ5CN6nD/prive-hd.png" group-title="MOVIES 2", &PRIVE HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
 
+#EXTINF:0 tvg-logo="https://i.ibb.co/WHS5GLc/fox.png" group-title="MOVIES 2",fox
+http://51.15.0.141:88/fox/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/WHS5GLc/fox.png" group-title="MOVIES 2",foxcrime
+http://51.15.0.141:88/fox_crime/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/WHS5GLc/fox.png" group-title="MOVIES 2",foxmovies
+http://51.15.0.141:88/fox_movies/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/WHS5GLc/fox.png" group-title="MOVIES 2",foxcomedy
+http://51.15.0.141:88/fox_comedy/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/WHS5GLc/fox.png" group-title="MOVIES 2",foxlife
+http://51.15.0.141:88/fox_life/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="MOVIES 2",CINEMAX 
 http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="MOVIES 2",HBO
@@ -324,6 +335,17 @@ http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
 https://raw.githubusercontent.com/bacot123450/ttv/main/red%3Dmalingluya-capekGwBuatnya-enakbanget-lu-tinggal-ngesnifDoang-intinyaGwgakIklash-lumakeAtauNgejualAtauNgebuat-pasteYgbaru-dosaJariyahBuatluh!!!tinggalNontonDiaplikasi-iniAjahEmankKenapaTau.m3u8
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES 2",HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
+#EXTINF:0 group-title="MOVIES 2 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png",hbo east
+http://51.79.82.231:8080/US_HBO_EAST/index.m3u8
+#EXTINF:0 group-title="MOVIES 2 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png",hbo west
+http://51.79.82.231:8080/US_HBO_WEST/index.m3u8
+#EXTINF:0 group-title="MOVIES 2 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png",hbo2
+http://51.79.82.231:8080/US_HBO_2/index.m3u8
+#EXTINF:0 group-title="MOVIES 2 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png",hbo family
+http://51.79.82.231:8080/US_HBO_FAMILY/index.m3u8
+#EXTINF:0 group-title="MOVIES 2 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png",hbo signature
+http://51.79.82.231:8080/US_HBO_SIGNATURE/index.m3u8
 
 #EXTINF:-1 tvg-id="PAR.US" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" group-title="MOVIES 2",Paramount Network
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
@@ -353,7 +375,7 @@ http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://sport-tv-guide.live/images/stations/a1502.png" tvg-name="ELEVEN SPORTS 3" group-title="SPORTS",ELEVEN SPORTS 3
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="SPORTS", Fox Sport 1
-https://livecdn.fptplay.net/qnetlive/foxsports1_2000.stream/chunklist.m3u8
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title="SPORTS", Fox Sport 2
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title="SPORTS", Fox Sport 3
@@ -478,15 +500,15 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="SPORTS 2",ARENA SPORT 1
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/197cf3f448f47b1.m3u8
+http://91.212.150.248/ArenaSport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="SPORTS 2",ARENA SPORT 2
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/00490feacaf3646.m3u8
+http://91.212.150.248/ArenaSport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="SPORTS 2",ARENA SPORT 3
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5835b824e88919b.m3u8
+http://91.212.150.248/ArenaSport3/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="SPORTS 2",ARENA SPORT 4
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/ce220746856cda4.m3u8
+http://91.212.150.248/ArenaSport4/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-5-rs.png" group-title="SPORTS 2",ARENA SPORT 5
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/c65ab974f6bdc47.m3u8
+http://91.212.150.248/ArenaSport5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/48208.png" group-title="SPORTS 2", ESPN 1
 http://45.170.40.2:8000/play/a009/index.m3u8
@@ -510,6 +532,12 @@ http://tv.iptvpl.itv.world:8080/0qqa0fplar/2dmkq4493/5429
 http://iptvtree.net:8080/Line1051/f4fffd47/82628
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_hk_select_hd_2.png" group-title="SPORTS 2",Star Sports Select 2 HD
 http://iptvtree.net:8080/Line1051/f4fffd47/201082
+
+#EXTINF:-1, group-title="SPORTS 2" tvg-logo="https://archive.org/services/img/SkySportsGolf_201708", SKYSPORTS GOLF
+http://193.160.32.112:9090/hstv.php?id=417
+#EXTINF:-1, group-title="SPORTS 2" tvg-logo="https://archive.org/download/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png", SKYSPORTS PREMIER LEAGUE
+http://193.160.32.112:9090/hstv.php?id=418
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-1-fr.png" group-title="SPORTS 2",RMC Sport 1
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-2-fr.png" group-title="SPORTS 2",RMC Sport 2
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-3-fr.png" group-title="SPORTS 2",RMC Sport 3
@@ -915,8 +943,6 @@ http://185.52.77.67:8080/LaMinor/index.m3u8
 http://185.52.77.67:8080/ZdorovoeTV/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="OTHER",vmesterf
 http://185.52.77.67:8080/VmesteRF/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="OTHER",candy
-http://185.52.77.67:8080/Candy/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="OTHER",UZUMAKI TV
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
