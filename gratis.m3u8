@@ -310,17 +310,6 @@ https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ5CN6nD/prive-hd.png" group-title="MOVIES 2", &PRIVE HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/WHS5GLc/fox.png" group-title="MOVIES 2",fox
-http://51.15.0.141:88/fox/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/WHS5GLc/fox.png" group-title="MOVIES 2",foxcrime
-http://51.15.0.141:88/fox_crime/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/WHS5GLc/fox.png" group-title="MOVIES 2",foxmovies
-http://51.15.0.141:88/fox_movies/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/WHS5GLc/fox.png" group-title="MOVIES 2",foxcomedy
-http://51.15.0.141:88/fox_comedy/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/WHS5GLc/fox.png" group-title="MOVIES 2",foxlife
-http://51.15.0.141:88/fox_life/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="MOVIES 2",CINEMAX 
 http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="MOVIES 2",HBO
@@ -336,19 +325,21 @@ https://raw.githubusercontent.com/bacot123450/ttv/main/red%3Dmalingluya-capekGwB
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES 2",HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
-#EXTINF:0 group-title="MOVIES 2 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png",hbo east
+#EXTINF:0 group-title="MOVIES 2" tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png",hbo east
 http://51.79.82.231:8080/US_HBO_EAST/index.m3u8
-#EXTINF:0 group-title="MOVIES 2 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png",hbo west
+#EXTINF:0 group-title="MOVIES 2" tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png",hbo west
 http://51.79.82.231:8080/US_HBO_WEST/index.m3u8
-#EXTINF:0 group-title="MOVIES 2 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png",hbo2
+#EXTINF:0 group-title="MOVIES 2" tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png",hbo2
 http://51.79.82.231:8080/US_HBO_2/index.m3u8
-#EXTINF:0 group-title="MOVIES 2 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png",hbo family
+#EXTINF:0 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/BQqXZKMn/hbofam.png",hbo family
 http://51.79.82.231:8080/US_HBO_FAMILY/index.m3u8
-#EXTINF:0 group-title="MOVIES 2 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png",hbo signature
+#EXTINF:0 group-title="MOVIES 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz33HnRoWmX8do4fI301ojh2oxLctX3EwbdA&usqp=CAU",hbo signature
 http://51.79.82.231:8080/US_HBO_SIGNATURE/index.m3u8
 
 #EXTINF:-1 tvg-id="PAR.US" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" group-title="MOVIES 2",Paramount Network
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/JOJ_WAU_TV.jpg/220px-JOJ_WAU_TV.jpg" group-title="MOVIES 2",WAU HD
+http://91.236.82.77/hls/wau-540.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qBX1YMrs/WOW-TV.png" group-title="MOVIES 2",WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 
