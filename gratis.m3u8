@@ -517,7 +517,6 @@ http://91.212.150.248/SK3HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_hk_select_hd_1.png" group-title="SPORTS 2",Star Sports Select 1 HD
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_hk_select_hd_2.png" group-title="SPORTS 2",Star Sports Select 2 HD
 
-
 #EXTINF:-1, group-title="SPORTS 2" tvg-logo="https://archive.org/services/img/SkySportsGolf_201708", SKYSPORTS GOLF
 http://193.160.32.112:9090/hstv.php?id=417
 #EXTINF:-1, group-title="SPORTS 2" tvg-logo="https://archive.org/download/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png", SKYSPORTS PREMIER LEAGUE
@@ -580,7 +579,6 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png" group-title="BEIN SPORTS",BEIN SPORTS XTRA 
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png",BEIN SPORT MAX
-http://51.79.208.146:61980/myplay/c_58044/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", Bein Sport 1 HD
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
@@ -592,33 +590,33 @@ https://nonton.site:8443/provision/pp/728
 https://nonton.site:8443/provision/pp/729
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS", Bein Sports 1
-http://31.220.41.90:8081/live/fr-beinsport1.stream/playlist.m3u8
+http://144.217.253.140/beinsport1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS", Bein Sports 2
-http://31.220.41.90:8081/live/fr-beinsport2.stream/playlist.m3u8
+http://144.217.253.140/beinsport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS", Bein Sports 3
-http://31.220.41.90:8081/live/fr-beinsport3.stream/playlist.m3u8
+http://144.217.253.140/beinsport3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS", Bein Sports 4
-http://31.220.41.90:8081/live/fr-beinsport4.stream/playlist.m3u8
+http://144.217.253.140/beinsport4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS", Bein Sports 5
-http://31.220.41.90:8081/live/fr-beinsport5.stream/playlist.m3u8
+http://31.220.41.90:8081/live/fr-beinsport1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS", Bein Sports 6
-http://31.220.41.90:8081/live/fr-beinsport6.stream/playlist.m3u8
+http://31.220.41.90:8081/live/fr-beinsport2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS", Bein Sports 7
-http://31.220.41.90:8081/live/fr-beinsport7.stream/playlist.m3u8
+http://31.220.41.90:8081/live/fr-beinsport3.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS", Bein Sports 8
-http://31.220.41.90:8081/live/fr-beinsport8.stream/playlist.m3u8
+http://31.220.41.90:8081/live/fr-beinsport4.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS", Bein Sports 9
-http://31.220.41.90:8081/live/fr-beinsport9.stream/playlist.m3u8
+http://31.220.41.90:8081/live/fr-beinsport5.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS", Bein Sports 10
-http://31.220.41.90:8081/live/fr-beinsport10.stream/playlist.m3u8
+http://31.220.41.90:8081/live/fr-beinsport6.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS", Bein Sports 11
-http://31.220.41.90:8081/live/fr-beinsport11.stream/playlist.m3u8
+http://31.220.41.90:8081/live/fr-beinsport7.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS", Bein Sports 12
-http://31.220.41.90:8081/live/fr-beinsport12.stream/playlist.m3u8
+http://31.220.41.90:8081/live/fr-beinsport8.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="BEIN SPORTS", Bein Sports 1 SD
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="BEIN SPORTS", Bein Sports 1
 http://zana@1.abdakaroukhai.xyz/live/6161655/index.m3u8
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="BEIN SPORTS", Bein Sports 2 ID
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="BEIN SPORTS", Bein Sports 2
 http://zana@1.abdakaroukhai.xyz/live/79481245/index.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="BEIN SPORTS", Bein Sports 3
 http://3.abdakaroukhai.xyz/live/161988840/index.m3u8
