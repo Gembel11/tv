@@ -134,7 +134,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BABYFIRST-SD-720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="KIDS", Baby First
 https://karapuztv.fenixplustv.xyz/content/33418/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnMT1rYT/BABY-TV.png" group-title="KIDS", Baby TV
-https://nonton.site:8443/novi/novi123/296
+http://58.65.171.202:8000/play/7351/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="KIDS", Boomerang
 http://101.71.255.229:6610/zjhs/2/10026/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="KIDS", Cartoon Network
@@ -144,7 +144,7 @@ http://51.52.156.22:8888/http/003
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5jHf5qq/davinci.png" group-title="KIDS", DaVinci
 http://101.71.255.229:6610/zjhs/2/10030/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-ID="" tvg-name="DISNEY" tvg-logo="https://i.imgur.com/5ZWo1R6.png" group-title="KIDS", DISNEY CHANNEL
-https://nonton.site:8443/novi/novi123/37400
+http://58.65.171.202:8000/play/7350/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png?v=2.0.0.13" group-title="KIDS", Duck TV
 http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="KIDS", Dreamworks
@@ -158,7 +158,7 @@ http://101.71.255.229:6610/zjhs/2/10050/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mykids_small.png" group-title="KIDS", M Kidz
 http://rr.dens.tv/h/h98/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="KIDS", Nick Junior
-https://cdn6.goprimetime.info/feed/LC23/index.m3u8
+http://58.65.171.202:8000/play/3/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="KIDS", Nickelodeon
 http://101.71.255.229:6610/zjhs/2/10053/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png?v=2.0.0.13" group-title="KIDS", Da Vinci Learning
@@ -228,8 +228,6 @@ https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg
 
 ===================  (( MOVIES ))  =================
 
-#EXTINF:-1 tvg-id="AXN MOVIES" tvg-name="AXN MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/AXN_Movies_logo.jpg" group-title="MOVIES",AXN MOVIES
-http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21386.m3u8
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://i.imgur.com/siuEzEO.png", CCM Movie
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="MOVIES", Celestial Movie
@@ -257,8 +255,6 @@ http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="https://i.ibb.co/N2QyPx7/foxlife.png" group-title="MOVIES",FOX LIFE
 http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
-#EXTINF:-1 tvg-id="FOX COMEDY" tvg-name="FOX COMEDY" tvg-logo="https://i.pinimg.com/474x/ed/f4/f4/edf4f4f06bd7b5544b3a2d9e1b327988--comedy-foxes.jpg" group-title="MOVIES",FOX COMEDY
-http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21396.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5Ng3X8Rd/10626165-ico.png" group-title="MOVIES",HBO
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
@@ -270,7 +266,7 @@ http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="MOVIES",CINEMAX
-http://fdtvapps.xyz/channel/cinemax.m3u8
+https://raw.githubusercontent.com/bacot123450/ttv/main/sinemax-simida-ga-iklash-gw-di-snif-capek-gw-buatnya-inget-yahh-lu-ngecopy-gw-gak-iklash-lu-dosa-jariyah!!!.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="MOVIES",HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" group-title="MOVIES",HBO FAMILY
@@ -280,10 +276,10 @@ https://dl.dropbox.com/s/b2krhkx9ydxh2z5/hit.m3u8?dl=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" group-title="MOVIES",HBO SIGNATURE
 https://dl.dropbox.com/s/buj1qa1o55s4ln7/signatur.m3u8?dl=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgxTrzm/red.png" group-title="MOVIES",RED BY HBO
-http://fdtvapps.xyz/channel/red.m3u8
+https://raw.githubusercontent.com/bacot123450/ttv/main/red%3Dmalingluya-capekGwBuatnya-enakbanget-lu-tinggal-ngesnifDoang-intinyaGwgakIklash-lumakeAtauNgejualAtauNgebuat-pasteYgbaru-dosaJariyahBuatluh!!!tinggalNontonDiaplikasi-iniAjahEmankKenapaTau.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjqKqhch/CINEMAX.png" group-title="MOVIES",CINEMAX
-https://raw.githubusercontent.com/bacot123450/ttv/main/sinemax-simida-ga-iklash-gw-di-snif-capek-gw-buatnya-inget-yahh-lu-ngecopy-gw-gak-iklash-lu-dosa-jariyah!!!.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5Ng3X8Rd/10626165-ico.png" group-title="MOVIES",HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JhDcYv4M/10626274-ico.png" group-title="MOVIES",HBO FAMILY
@@ -309,7 +305,8 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ5CN6nD/prive-hd.png" group-title="MOVIES 2", &PRIVE HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="https://i.ibb.co/WHS5GLc/fox.png" group-title="MOVIES 2",FOX HD
+http://58.65.171.202:8000/play/3111/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="MOVIES 2",CINEMAX 
 http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="MOVIES 2",HBO
@@ -321,7 +318,7 @@ http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" group-title="MOVIES 2",HBO HITS 
 http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgxTrzm/red.png" group-title="MOVIES 2",RED BY HBO
-https://raw.githubusercontent.com/bacot123450/ttv/main/red%3Dmalingluya-capekGwBuatnya-enakbanget-lu-tinggal-ngesnifDoang-intinyaGwgakIklash-lumakeAtauNgejualAtauNgebuat-pasteYgbaru-dosaJariyahBuatluh!!!tinggalNontonDiaplikasi-iniAjahEmankKenapaTau.m3u8
+
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES 2",HBO
 
 #EXTINF:0 group-title="MOVIES 2" tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png",hbo east
@@ -517,11 +514,6 @@ http://91.212.150.248/SK3HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_hk_select_hd_1.png" group-title="SPORTS 2",Star Sports Select 1 HD
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_hk_select_hd_2.png" group-title="SPORTS 2",Star Sports Select 2 HD
 
-#EXTINF:-1, group-title="SPORTS 2" tvg-logo="https://archive.org/services/img/SkySportsGolf_201708", SKYSPORTS GOLF
-http://193.160.32.112:9090/hstv.php?id=417
-#EXTINF:-1, group-title="SPORTS 2" tvg-logo="https://archive.org/download/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png", SKYSPORTS PREMIER LEAGUE
-http://193.160.32.112:9090/hstv.php?id=418
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-1-fr.png" group-title="SPORTS 2",RMC Sport 1
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-2-fr.png" group-title="SPORTS 2",RMC Sport 2
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-3-fr.png" group-title="SPORTS 2",RMC Sport 3
@@ -557,11 +549,11 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-EXMnQZDjrR0/XA-wIxAIXdI/AAAAAAAADmE/B-6jWSCHQKsxckiFpfpObLqOY5DPJDqcQCLcBGAs/s320/Frekuensi%2BSiaran%2BFight%2BSports%2BSatelit%2BAsiasat%2B7.jpg" group-title="SPORTS 2", FIGTH SPORT
 http://45.126.83.51/uq2663/h/h05/01.m3u8
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/3182d0c8-507f-42b9-b53a-cc2b0298941c.png",Golf Channel
-https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8      	  	
+http://58.65.171.202:8000/play/15907/index.m3u8      	  	
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/481-4817028_highlight-png-transparent-png.png" group-title="SPORTS 2", HIGHLIGHT TV
 http://45.126.83.51/uq2663/h/h09/01.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/d/de/20200728010847%21NBA_TV_Philippines.png",NBA TV
-https://nonton.site:8443/novi/novi123/3099
+#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/d/de/20200728010847%21NBA_TV_Philippines.png",EXTREME SPORTS
+http://58.65.171.202:8000/play/10506/index.m3u8
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png",Tennis HD
 https://laos-tech-live.b-cdn.net/hd-tennis_720/index.m3u8
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png",NFL TV
@@ -648,11 +640,11 @@ https://fikrulmkc.my.id/bagus/usee-afc.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zCiKeXC.png" group-title="KNOWLEDGE", ANIMAL PLANET
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="KNOWLEDGE", Discovery
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
+http://58.65.171.202:8000/play/10509/index.m3u8
 #EXTINF:-1 tvg-id="natgeo" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="KNOWLEDGE", National Geographic
 https://fikrulmkc.my.id/bagus/usee-natgeo.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?v=2.0.0.13" group-title="KNOWLEDGE", Nat Geo People
-https://fikrulmkc.my.id/bagus/usee-natgeopeople.m3u8
+http://58.65.171.202:8000/play/10503/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="KNOWLEDGE", Nat Geo Wild
 https://fikrulmkc.my.id/bagus/usee-natgeowild.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cctv4_small1.png?v=2.0.0.13" group-title="KNOWLEDGE", CCTV 4
@@ -662,14 +654,14 @@ http://210.210.155.35/qwr9ew/s/s20/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ctiasia_small.png" group-title="KNOWLEDGE", PHOENIX
 http://210.210.155.35/qwr9ew/s/s21/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png" group-title="KNOWLEDGE", Crime Investigation
-https://nonton.site:8443/novi/novi123/332
+http://58.65.171.202:8000/play/1103/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png?v=2.0.0.13" group-title="KNOWLEDGE", History
-https://nonton.site:8443/novi/novi123/718
+http://58.65.171.202:8000/play/3119/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_outdoor_small.png?v=1.1" group-title="KNOWLEDGE", Outdoor Channel
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
-#EXTINF:-1 tvg-id="" tvg-name="NASA TV" tvg-logo="https://i.imgur.com/iJldO7U.jpg" group-title="KNOWLEDGE",NASA TV
-
+http://58.65.171.202:8000/play/15832/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NASA TV" tvg-logo="https://i.imgur.com/iJldO7U.jpg" group-title="KNOWLEDGE",MOTOR TREN
+http://58.65.171.202:8000/play/4321/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="KNOWLEDGE", KNOWLEDGE
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 
@@ -880,7 +872,7 @@ http://210.210.155.35/qwr9ew/s/s38/01.m3u8
 http://210.210.155.35/qwr9ew/s/s24/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_small.png" group-title="OTHER",HGTV
-https://nonton.site:8443/novi/novi123/537
+http://58.65.171.202:8000/play/4334/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png?v=2.0.0.13" group-title="OTHER", EGG GAME
 http://45.126.83.51/uq2663/h/h22/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Style_Network_2012_Logo.png/220px-Style_Network_2012_Logo.png" group-title="OTHER", STYLE
@@ -935,15 +927,15 @@ https://5d63d49f772ce.streamlock.net/maleo/udp.stream_360p/chunklist_w970298173.
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SNM8mxhD/logo-ikonser-big.png" group-title="MUSIC",I-KONSER
 https://fikrulmkc.my.id/bagus/usee-ikonser.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/SsyTYFfh/logo-mtvlive-big.png" group-title="MUSIC",MTV LIVE HD
-https://fikrulmkc.my.id/bagus/usee-mtvlive.m3u8
+http://58.65.171.202:8000/play/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v5TptMC.png" group-title="MUSIC",POP MUSIK
 https://5d63d49f772ce.streamlock.net//popmusik/udp.stream_360p/chunklist_w176140401.m3u8
 #EXTINF:-1 tvg-id="b4umovies" tvg-logo="https://i.postimg.cc/xTW6yb3g/B4-U-MUSIC.png" group-title="MUSIC",B4U MUSIC
 http://103.55.39.182/~dusktil2/a.m3u8?q=b4umusicindia
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fypc4KYV/CHANNEL-V.png" group-title="MUSIC",CHANNEL V CHINA
 http://103.55.39.182/~dusktil2/a.m3u8?q=vchina
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HkjTz25S/MTV.png" group-title="MUSIC",MTV CHINA
-http://103.55.39.182/~dusktil2/a.m3u8?q=mtvchina
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HkjTz25S/MTV.png" group-title="MUSIC",MTV ROCKS
+http://58.65.171.202:8000/play/7353/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8PKgbNxd/MTV-BIGGEST.png" group-title="MUSIC",MTV BIGGEST POP
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTTfn8YX/MOLATV.png" group-title="MUSIC",MOLATV
