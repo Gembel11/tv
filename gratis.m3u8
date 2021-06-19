@@ -459,11 +459,11 @@ http://46.174.189.51/setanta2/video.m3u8
 http://208.115.215.42/SonY_Six_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://guljaj.com/kanaly/42.jpg",Футбол 1HD
-http://46.174.189.51/ua1/video.m3u8
+http://92.50.221.130:8000/play/a098/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://guljaj.com/kanaly/43.jpg",Футбол 2HD
-http://46.174.189.51/ua2/video.m3u8
+http://92.50.221.130:8000/play/a099/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://guljaj.com/kanaly/44.jpg",Футбол 3HD
-http://46.174.189.51/ua3/video.m3u8
+http://92.50.221.130:8000/play/a09a/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_tv.png" group-title="SPORTS",Матч!
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_tv.png" group-title="SPORTS",Матч!1
 https://s1.idata.uz/stch_temp4/tracks-v1a1/mono.m3u8
@@ -577,9 +577,9 @@ http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", Bein Sport 2 HD
 http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", Bein Sport 1 ID
-https://nonton.site:8443/provision/pp/728
+http://202.150.161.68:4000/play/a001/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", Bein Sport 2 ID
-https://nonton.site:8443/provision/pp/729
+http://202.150.161.68:4000/play/a002/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS", Bein Sports 1
 http://zana@6.abdakaroukhai.xyz/live/69854211/index.m3u8
@@ -643,7 +643,7 @@ http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="KNOWLEDGE", Discovery
 http://58.65.171.202:8000/play/10509/index.m3u8
 #EXTINF:-1 tvg-id="natgeo" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="KNOWLEDGE", National Geographic
-https://fikrulmkc.my.id/bagus/usee-natgeo.m3u8
+http://92.50.221.130:8000/play/a07d/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?v=2.0.0.13" group-title="KNOWLEDGE", Nat Geo People
 http://58.65.171.202:8000/play/10503/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="KNOWLEDGE", Nat Geo Wild
@@ -658,9 +658,9 @@ http://210.210.155.35/qwr9ew/s/s21/01.m3u8
 http://58.65.171.202:8000/play/1103/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png?v=2.0.0.13" group-title="KNOWLEDGE", History
-http://58.65.171.202:8000/play/3119/index.m3u8
+http://92.50.221.130:8000/play/a05u/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_outdoor_small.png?v=1.1" group-title="KNOWLEDGE", Outdoor Channel
-http://58.65.171.202:8000/play/15832/index.m3u8
+http://92.50.221.130:8000/play/a05v/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NASA TV" tvg-logo="https://i.imgur.com/iJldO7U.jpg" group-title="KNOWLEDGE",MOTOR TREN
 http://58.65.171.202:8000/play/4321/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="KNOWLEDGE", KNOWLEDGE
@@ -715,7 +715,7 @@ http://185.180.221.194:8278/streams/d/One/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" tvg-id="TVN" group-title="KOREAN", TVN
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" tvg-id="TVN" group-title="KOREAN", TVN 
-http://185.180.221.194:8278/streams/d/TVN/playlist.m3u8
+http://202.150.161.202:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="KOREAN", TVN MOVIES 
 http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_arirang_small.png" group-title="KOREAN", Arirang
