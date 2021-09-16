@@ -345,13 +345,10 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 ===================  (( Olahraga ))  ==================
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SPORTS", Champion TV 1HD
-http://202.150.161.254:4000/play/a003/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="SPORTS", Champion TV 2HD
-http://202.150.161.254:4000/play/a002/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SPORTS", Champion TV 1
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion1&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="SPORTS", Champion TV 2
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion2&bandwidth=default&sync=0
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="SPORTS", UseeSports 1
 http://topwin-tv.my.id/2/chunklist.m3u8?id=useesport&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="SPORTS", UseeSports 2
@@ -420,15 +417,15 @@ http://31.220.41.88:8081/live/pt-sporttv4.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV5.pt.png" group-title="SPORTS",SPORT TV 5
 http://31.220.41.88:8081/live/pt-sporttv5.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV1.pt.png" group-title="SPORTS",SPORT TV 1HD
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+http://31.220.41.88:8081/live/pt-sporttv1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV2.pt.png" group-title="SPORTS",SPORT TV 2HD
-http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+http://31.220.41.88:8081/live/pt-sporttv2.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV3.pt.png" group-title="SPORTS",SPORT TV 3HD
-http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+http://31.220.41.88:8081/live/pt-sporttv3.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV4.pt.png" group-title="SPORTS",SPORT TV 4HD
-http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+http://31.220.41.88:8081/live/pt-sporttv4.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV5.pt.png" group-title="SPORTS",SPORT TV 5HD
-http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+http://31.220.41.88:8081/live/pt-sporttv5.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ogiX67s7-ngXWADPdP7Oo3k7uQiHHG6V5A&usqp=CAU",BT Sport 1 HD
 http://31.220.41.88:8081/live/bt1.stream/playlist.m3u8
@@ -588,9 +585,9 @@ http://213.7.193.54:4000/play/a002/index.m3u8
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png",BEIN SPORT EXTRA
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", Bein Sport 1 HD
-http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+https://m.vk.com/away.php?to=http%3A%2F%2F55.abdakaroukhai.xyz%3A80%2Flive%2F9962564400%2Findex.m3u8&post=603556584_25
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", Bein Sport 2 HD
-http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
+https://m.vk.com/away.php?to=http%3A%2F%2F55.abdakaroukhai.xyz%3A80%2Flive%2F880025552%2Findex.m3u8&post=603556584_25
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", Bein Sport 1 ID
 http://202.150.161.254:4000/play/bein1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", Bein Sport 2 ID
