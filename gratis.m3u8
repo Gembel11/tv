@@ -362,9 +362,9 @@ http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="SPORTS", Fox Sport 1
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport1&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title="SPORTS", Fox Sport 2
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport2&bandwidth=default&sync=0
+http://178.175.132.170:8888/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title="SPORTS", Fox Sport 3
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport3&bandwidth=default&sync=0
+http://178.175.132.170:8888/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="AS1" tvg-logo="https://static.epg.best/my/AstroSuperSport.my.png" group-title="SPORTS",Astro Supersport 1
 http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="AS2" tvg-logo="https://static.epg.best/my/AstroSuperSport2.my.png" group-title="SPORTS",Astro Supersport 2
@@ -375,15 +375,15 @@ http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",True Premier HD 1
-http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+http://178.175.132.170:8888/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",True Premier HD 2
-http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
+http://178.175.132.170:8888/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",True Premier HD 3
-http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
+http://178.175.132.170:8888/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png",True Premier HD 4
-http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
+http://178.175.132.170:8888/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png",True Premier HD 5
-http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8
+http://178.175.132.170:8888/02_PremierHD5_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",True Premier Football HD 1
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",True Premier Football HD 2
@@ -434,11 +434,11 @@ http://31.220.41.88:8081/live/bt1.stream/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_nFv0hF0YjEtd7GkPn207jzQb9Z_Z29rqwg&usqp=CAU",BT Sport 3 HD
 http://31.220.41.88:8081/live/bt33.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png" group-title="SPORTS",BT Sport 1
-http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png" group-title="SPORTS",BT Sport 2
-http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+http://stream.tvtap.live:8081/live/bt220.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-3-uk.png" group-title="SPORTS",BT Sport 3
-
+http://stream.tvtap.live:8081/live/bt220.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://vip-tv.biz/uploads/posts/2020-05/1589877958_1589711479_1587969202_setanta1.png" group-title="SPORTS",  Setanta Sports 1
 http://92.43.140.204/s81/01.m3u8
 #EXTINF:-1 tvg-logo="http://vip-tv.biz/uploads/posts/2020-05/1589960575_1589716161_1587972400_setanta2.png" group-title="SPORTS",  Setanta Sports 2
