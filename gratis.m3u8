@@ -366,7 +366,7 @@ http://178.175.132.170:8888/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title="SPORTS", Fox Sport 3
 http://178.175.132.170:8888/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="AS1" tvg-logo="https://static.epg.best/my/AstroSuperSport.my.png" group-title="SPORTS",Astro Supersport 1
-http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+http://45.64.99.62:8888/hls/sport/c_46203/index.m3u8?token=NjJmYzhmOGIwYjViNDk1YzViZDA2NmIwNTUwOTNiODYxNjM1MDk0ODAwMDAwV2ZLWTZwbjVTc0ZyMksx&serverRegionCode=indonesia
 #EXTINF:-1 tvg-id="AS2" tvg-logo="https://static.epg.best/my/AstroSuperSport2.my.png" group-title="SPORTS",Astro Supersport 2
 http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="AS3" tvg-logo="https://static.epg.best/my/AstroSuperSport3.my.png" group-title="SPORTS",Astro Supersport 3
