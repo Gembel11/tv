@@ -300,19 +300,19 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 =====================  MOVIES 2  =====================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4814StH/FLIX.png" group-title="MOVIES 2",&Flix HD
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+http://110.93.240.198:8000/play/a06w/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pT1VfTfQ/PICTURES.png" group-title="MOVIES 2",&Pictures
-https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/mono.m3u8
+http://110.93.240.198:8000/play/a06x/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ5CN6nD/prive-hd.png" group-title="MOVIES 2", &PRIVE HD
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
+http://110.93.240.198:8000/play/a06i/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="https://i.ibb.co/WHS5GLc/fox.png" group-title="MOVIES 2",FOX HD
-http://31.220.41.88:8081/live/us-fox.stream/playlist.m3u8
+http://110.93.240.198:8000/play/a06j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="MOVIES 2",CINEMAX 
-http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
+http://110.93.240.198:8000/play/a07v/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="MOVIES 2",HBO
-http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
+http://110.93.240.198:8000/play/a08x/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" group-title="MOVIES 2",HBO SIGNATURE 
-http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
+http://110.93.240.198:8000/play/a07x/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" group-title="MOVIES 2",HBO FAMILY 
 http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" group-title="MOVIES 2",HBO HITS 
@@ -375,9 +375,9 @@ http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",True Premier HD 1
-http://45.64.99.62:8888/hls/sport/c_46203/index.m3u8?token=ODlhN2M3NWU4Y2JjYzMwMDY0MjhjYTFhNzQ4NDU1Y2MxNjM1MDk0ODAwMDAwOXFscngycVVudWg2Rm5x&serverRegionCode=indonesia
+http://110.93.240.198:8000/play/a072/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",True Premier HD 2
-http://play2.spogoal.cc/app/c42073.m3u8?auth_key=1634407329-0-0-fe513105c9d91e6dc960778239b5a7d7&serverRegionCode=cdnali
+http://110.93.240.198:8000/play/a04f/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",True Premier HD 3
 http://178.175.132.170:8888/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png",True Premier HD 4
