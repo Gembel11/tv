@@ -366,13 +366,13 @@ http://178.175.132.170:8888/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title="SPORTS", Fox Sport 3
 http://178.175.132.170:8888/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="AS1" tvg-logo="https://static.epg.best/my/AstroSuperSport.my.png" group-title="SPORTS",Astro Supersport 1
-http://45.64.99.62:8888/hls/sport/c_46203/index.m3u8?token=NjJmYzhmOGIwYjViNDk1YzViZDA2NmIwNTUwOTNiODYxNjM1MDk0ODAwMDAwV2ZLWTZwbjVTc0ZyMksx&serverRegionCode=indonesia
+http://iptv.jinggo-zone.cf:8080/F14741/cfe49823/146068
 #EXTINF:-1 tvg-id="AS2" tvg-logo="https://static.epg.best/my/AstroSuperSport2.my.png" group-title="SPORTS",Astro Supersport 2
-http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+http://iptv.jinggo-zone.cf:8080/F14741/cfe49823/157556
 #EXTINF:-1 tvg-id="AS3" tvg-logo="https://static.epg.best/my/AstroSuperSport3.my.png" group-title="SPORTS",Astro Supersport 3
-http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
+http://iptv.jinggo-zone.cf:8080/F14741/cfe49823/157557
 #EXTINF:-1 tvg-id="AS4" tvg-logo="https://static.epg.best/my/AstroSuperSport4.my.png" group-title="SPORTS",Astro Supersport 4
-http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+http://iptv.jinggo-zone.cf:8080/F14741/cfe49823/157558
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",True Premier HD 1
 http://110.93.240.198:8000/play/a072/index.m3u8
@@ -585,9 +585,9 @@ http://213.7.193.54:4000/play/a002/index.m3u8
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png",BEIN SPORT EXTRA
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", Bein Sport 1 HD
-https://m.vk.com/away.php?to=http%3A%2F%2F55.abdakaroukhai.xyz%3A80%2Flive%2F9962564400%2Findex.m3u8&post=603556584_25
+http://ctn.bounbrzouw.xyz/live/6161655/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", Bein Sport 2 HD
-https://m.vk.com/away.php?to=http%3A%2F%2F55.abdakaroukhai.xyz%3A80%2Flive%2F880025552%2Findex.m3u8&post=603556584_25
+http://gog.daroudaraw.xyz/live/616194987/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", Bein Sport 1 ID
 http://202.150.161.254:4000/play/bein1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", Bein Sport 2 ID
