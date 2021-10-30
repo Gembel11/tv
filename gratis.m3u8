@@ -345,10 +345,12 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 ===================  (( Olahraga ))  ==================
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SPORTS", Champion TV 1HD
+http://45.64.99.62:8888/hls/sport/c_47819/index.m3u8?token=NDFhMGE5ZGJiNjU5NzdmZGNhMWEzZGVjOWQ0MTI1Y2IxNjM1NjE2ODAwMDAwVnZhZ2ZDWmdHM0VrMUZt&serverRegionCode=indonesia
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="SPORTS", Champion TV 2HD
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SPORTS", Champion TV 1
+http://45.64.99.62:8888/hls/sport/c_47819/index.m3u8?token=NWFlYWVmYzc1ODdhODQzZDllYWYyODE5NTcyNTZmODIxNjM1NjE2ODAwMDAweXNMZXg3V3E0QmhUZkRM&serverRegionCode=indonesia
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="SPORTS", Champion TV 2
-
+http://45.64.99.62:8888/hls/sport/c_47819/index.m3u8?token=NWFlYWVmYzc1ODdhODQzZDllYWYyODE5NTcyNTZmODIxNjM1NjE2ODAwMDAweXNMZXg3V3E0QmhUZkRM&serverRegionCode=indonesia
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="SPORTS", UseeSports 1
 http://topwin-tv.my.id/2/chunklist.m3u8?id=useesport&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="SPORTS", UseeSports 2
