@@ -475,8 +475,8 @@ https://95-213-224-181.livesports24.online/mfootball2rus.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_tv.png" group-title="SPORTS",Матч!3
 https://46-21-250-207.livesports24.online/football3ua.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://st3.depositphotos.com/27847728/36619/v/600/depositphotos_366195626-stock-illustration-initial-logo-design-vector-template.jpg" group-title="SPORTS", ZQ Sports
-http://92.46.127.146:8080/qazsport/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://st3.depositphotos.com/27847728/36619/v/600/depositphotos_366195626-stock-illustration-initial-logo-design-vector-template.jpg" group-title="SPORTS", SPOT TV
+http://103.226.232.199:8005/play/a08w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="SPORTS",SPORTS
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
@@ -579,20 +579,22 @@ http://103.55.39.182/~dusktil2/a.m3u8?q=tvrisport
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="SPORTS 2",SPORTS 2
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 
-=================   (( BEIN SPORTS )) ================
+=================  (( BEIN SPORTS )) ===============
 
-#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png" group-title="BEIN SPORTS",BEIN SPORTS ENG
-http://play2.spogoal.cc/app/c46333.m3u8?auth_key=1635101010-0-0-df094a459eb531607d72989cb3b22147&serverRegionCode=cdnali
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png",BEIN SPORT EXTRA
-https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", Bein Sport 1 HD
-http://ctn.bounbrzouw.xyz/live/6161655/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", Bein Sport 2 HD
-http://gog.daroudaraw.xyz/live/616194987/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", Bein Sport 1 ID
-http://202.150.161.254:4000/play/bein1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", Bein Sport 2 ID
-http://202.150.161.254:4000/play/bein2/index.m3u8
+#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png" group-title="BEIN SPORTS",BEIN 1 PREMIUM
+http://d18.aminouras.xyz/live/8882425700/index.m3u8
+#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png" group-title="BEIN SPORTS",BEIN 2 PREMIUM
+http://d3.aminouras.xyz/live/61619498700/index.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png",BEIN 3 PREMIUM
+http://d16.aminouras.xyz/live/615127888700/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", BEIN 1 FR
+http://d20.aminouras.xyz/live/33523510/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", BEIN 2 FR
+http://d18.aminouras.xyz/live/68525202/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", BEIN 1 EXTRA
+http://d2.aminouras.xyz/live/9962564400/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", BEIN 2 EXTRA
+http://d4.aminouras.xyz/live/880025552/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS", Bein Sports 1
 http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
@@ -673,9 +675,9 @@ http://58.65.171.202:8000/play/1103/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png?v=2.0.0.13" group-title="KNOWLEDGE", History
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=history&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_outdoor_small.png?v=1.1" group-title="KNOWLEDGE", Outdoor Channel
-http://92.50.221.130:8000/play/a05v/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NASA TV" tvg-logo="https://i.imgur.com/iJldO7U.jpg" group-title="KNOWLEDGE",MOTOR TREN
-http://58.65.171.202:8000/play/4321/index.m3u8
+http://103.226.232.199:8005/play/a08y/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NASA TV" tvg-logo="https://i.imgur.com/iJldO7U.jpg" group-title="KNOWLEDGE",NASA TV 
+http://103.226.232.199:8005/play/a04x/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="KNOWLEDGE", KNOWLEDGE
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 
@@ -879,7 +881,7 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/zSAX6xt.png" group-title="MUSIC",Karaoke Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PqE3nYg.png" group-title="MUSIC",MALEO TV
-http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
+http://103.226.232.199:8005/play/a052/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SNM8mxhD/logo-ikonser-big.png" group-title="MUSIC",I-KONSER
 https://fikrulmkc.my.id/bagus/usee-ikonser.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/SsyTYFfh/logo-mtvlive-big.png" group-title="MUSIC",MTV LIVE HD
