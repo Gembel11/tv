@@ -18,15 +18,15 @@ http://103.226.232.199:8005/play/a09d/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRANS 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13" group-title="TV INDO",TRANS 7 
 http://103.226.232.199:8005/play/a06v/index.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png?v=2.0.0.13" group-title="TV INDO",TRANS TV 
-http://dituduhmaling.xyz/US33T4/transtv.m3u8 
+http://iptvid.my.id/ch/transtv.m3u8?by=iptv_id
 #EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="TV INDO",NET TV
-http://dituduhmaling.xyz/US33T4/net.m3u8 
+http://iptvid.my.id/ch/net.m3u8?by=iptv_id 
 #EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13" group-title="TV INDO",RTV
-http://dituduhmaling.xyz/US33T4/rtv.m3u8
+http://iptvid.my.id/ch/rtv.m3u8?by=iptv_id
 #EXTINF:-1 tvg-id="" tvg-name="INEWS" tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="TV INDO",iNEWS
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=7-mp4a_64000_eng=2.m3u8 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png?v=2.0.0.13" group-title="TV INDO",METRO TV
-http://dituduhmaling.xyz/US33T4/metrotv.m3u8
+https://iptv.mwafa.net/vidio/777/index.m3u8?token=1999
 #EXTINF:-1 tvg-id="" tvg-name="Kompas TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png?v=2.0.0.13" group-title="TV INDO",KOMPAS TV  
 http://103.226.232.199:8003/play/a04z/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="TV INDO", TV ONE
@@ -58,7 +58,7 @@ http://210.210.155.35/qwr9ew/s/s46/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSn2gxL/nusantara.png" group-title="TV INDO", NUSANTARA TV
 http://iptvid.my.id/ch/nusantara.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wsj5jWc/ochannel.png" tvg-id="" tvg-name="Ochannel" group-title="TV INDO",OChannel
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=7eabe3a1649ffa2b3ff8c02ebfd5659f102a6ed6587b5b8cb4ebbe972864690b
+https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
 #EXTINF:-1 tvg-id="" tvg-name="DAAI TV" tvg-logo="https://i.postimg.cc/0yVMKkPy/logo-daaitv-big1.png" group-title="TV INDO",DAAI TV 
 http://iptvid.my.id/ch/daaitv.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJdp2Wnw/the-indonesia-channel.png" group-title="TV INDO",THE INDONESIA CHANNEL
@@ -78,7 +78,7 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N08p3Wgx/ADITV.png" group-title="TV LOKAL",ADI TV
 http://aditv.onlivestreaming.net/aditv/livestream/chunks.m3u8?nimblesessionid=2785801
 #EXTINF:-1 tvg-id="" tvg-name="BALI TV" tvg-logo="https://i.postimg.cc/pL3v64BB/logo-balitv-big1.png" group-title="TV LOKAL",BALI TV 
-https://fikrulmkc.my.id/bagus/usee-balitv.m3u8
+http://iptvid.my.id/ch/balitv.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kX8vStpX/bandung-tv.png" group-title="TV LOKAL",BANDUNG TV
 http://202.150.153.254/bandungtv720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AhAy58i.png" group-title="TV LOKAL",BAYU TV
@@ -139,8 +139,8 @@ http://103.226.232.199:8005/play/a05y/index.m3u8
 http://iptvid.my.id/ch/cn.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pFxXY6T.png" group-title="KIDS", CBEEBIES BBC
 http://51.52.156.22:8888/http/003
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5jHf5qq/davinci.png" group-title="KIDS", DaVinci
-http://101.71.255.229:6610/zjhs/2/10030/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5jHf5qq/davinci.png" group-title="KIDS", DAVINCI
+http://iptvid.my.id/ch/davinci.m3u8?by=iptv_id
 #EXTINF:-1 tvg-ID="" tvg-name="DISNEY" tvg-logo="https://i.imgur.com/5ZWo1R6.png" group-title="KIDS", DISNEY CHANNEL
 http://58.65.171.202:8000/play/7350/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png?v=2.0.0.13" group-title="KIDS", Duck TV
