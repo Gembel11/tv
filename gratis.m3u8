@@ -6,9 +6,9 @@
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="TV INDO",ANTV
 http://210.210.155.35/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15" group-title="TV INDO",INDOSIAR
-https://fikrulmkc.my.id/bagus/usee-indosiar.m3u8
+http://iptvid.my.id/ch/indosiar.m3u8?by=iptv_id
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="TV INDO",SCTV 
-https://fikrulmkc.my.id/bagus/usee-sctv.m3u8 
+http://iptvid.my.id/ch/sctv.m3u8?by=iptv_id 
 #EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="TV INDO",RCTI
 https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="TV INDO",MNCTV
@@ -176,7 +176,7 @@ http://iptvid.my.id/ch/axn.m3u8?by=iptv_id
 #EXTINF:-1 tvg-id="KIX" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png?v=2.0.0.13" group-title="HIBURAN", KIX
 http://iptvid.my.id/ch/kix.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="HIBURAN", THRILL
-https://goldenlivektv.com/Live_TV/Channel_Thrill.m3u8
+http://93.190.139.35:8278/streams/d/Thrill/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="HIBURAN", BLUE ANT ENTERTAINMENT
 http://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="HIBURAN", BLUE ANT EXTREME
@@ -258,15 +258,15 @@ http://58.65.171.202:8000/play/3111/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="https://i.ibb.co/N2QyPx7/foxlife.png" group-title="MOVIES",FOX LIFE
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5Ng3X8Rd/10626165-ico.png" group-title="MOVIES",HBO
-http://iptvid.my.id/ch/hbo.m3u8
+http://iptvid.my.id/ch/hbo.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JhDcYv4M/10626274-ico.png" group-title="MOVIES",HBO FAMILY
-http://iptvid.my.id/ch/hbo_fam.m3u8
+http://iptvid.my.id/ch/hbo_fam.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VkNFn5xS/10626238-ico.png" group-title="MOVIES",HBO HITS
-http://iptvid.my.id/ch/hbo_hits.m3u8
+http://iptvid.my.id/ch/hbo_hits.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjPk4Btd/10626267-ico.png" group-title="MOVIES",HBO SIGNATURE
-http://iptvid.my.id/ch/hbo_sig.m3u8
+http://iptvid.my.id/ch/hbo_sig.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="MOVIES",CINEMAX
-http://iptvid.my.id/ch/cinemax.m3u8
+http://iptvid.my.id/ch/cinemax.m3u8?by=iptv_id
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="MOVIES",HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
@@ -759,7 +759,7 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 ==================  ((( JAPAN )))  ==================
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title="JAPAN", S GEM
-http://210.210.155.35/session/8d789368-3130-11eb-8016-b82a72d63267/uq2663/h/h19/01.m3u8
+http://iptvid.my.id/ch/sgem.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png?v=2.0.0.13" group-title="JAPAN", Waku Waku Japan
 http://iptvid.my.id/ch/waku2.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nhkworld_small.png?v=2.0.0.13" group-title="JAPAN", NHK WORLD
@@ -885,9 +885,9 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cctv4_small1.png?v=2.0.0.13" group-title="MANDARIN", CCTV 4
 http://103.226.232.199:8003/play/a04f/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cgtndocumentary_small1.png?v=2.0.0.13" group-title="MANDARIN", CGTN Documentary
-http://210.210.155.35/qwr9ew/s/s20/01.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ctiasia_small.png" group-title="MANDARIN", PHOENIX
-http://210.210.155.35/qwr9ew/s/s21/01.m3u8
+http://iptvid.my.id/ch/cgtndoc.m3u8?by=iptv_id
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ctiasia_small.png" group-title="MANDARIN", CTI
+http://iptvid.my.id/ch/cti.m3u8?by=iptv_id
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YDSdMw2/citra.png" tvg-id="" tvg-name"Citra Dangdut" group-title="MUSIC",Citra Dangdut
 http://103.226.232.199:8005/play/a096/index.m3u8
