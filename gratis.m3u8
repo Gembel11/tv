@@ -258,15 +258,15 @@ http://58.65.171.202:8000/play/3111/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="https://i.ibb.co/N2QyPx7/foxlife.png" group-title="MOVIES",FOX LIFE
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5Ng3X8Rd/10626165-ico.png" group-title="MOVIES",HBO
-http://iptvid.my.id/ch/hbo.m3u8?by=iptv_id
+http://iptvid.my.id/ch/hbo.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JhDcYv4M/10626274-ico.png" group-title="MOVIES",HBO FAMILY
-http://iptvid.my.id/ch/hbo_fam.m3u8?by=iptv_id
+http://iptvid.my.id/ch/hbo_fam.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VkNFn5xS/10626238-ico.png" group-title="MOVIES",HBO HITS
-http://iptvid.my.id/ch/hbo_hits.m3u8?by=iptv_id
+http://iptvid.my.id/ch/hbo_hits.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjPk4Btd/10626267-ico.png" group-title="MOVIES",HBO SIGNATURE
-http://iptvid.my.id/ch/hbo_sig.m3u8?by=iptv_id
+http://iptvid.my.id/ch/hbo_sig.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="MOVIES",CINEMAX
-http://iptvid.my.id/ch/cinemax.m3u8?by=iptv_id
+http://iptvid.my.id/ch/cinemax.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="MOVIES",HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
