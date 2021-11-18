@@ -10,7 +10,7 @@ https://fikrulmkc.my.id/bagus/usee-indosiar.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="TV INDO",SCTV 
 https://fikrulmkc.my.id/bagus/usee-sctv.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="TV INDO",RCTI
-http://103.226.232.199:8005/play/a09b/index.m3u8
+https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="TV INDO",MNCTV
 http://103.226.232.199:8005/play/a09c/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="TV INDO",GTV
@@ -24,7 +24,7 @@ http://iptvid.my.id/ch/net.m3u8?by=iptv_id
 #EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13" group-title="TV INDO",RTV
 http://iptvid.my.id/ch/rtv.m3u8?by=iptv_id
 #EXTINF:-1 tvg-id="" tvg-name="INEWS" tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="TV INDO",iNEWS
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=7-mp4a_64000_eng=2.m3u8 
+http://iptvid.my.id/ch/inews.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png?v=2.0.0.13" group-title="TV INDO",METRO TV
 https://iptv.mwafa.net/vidio/777/index.m3u8?token=1999
 #EXTINF:-1 tvg-id="" tvg-name="Kompas TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png?v=2.0.0.13" group-title="TV INDO",KOMPAS TV  
@@ -62,11 +62,11 @@ https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
 #EXTINF:-1 tvg-id="" tvg-name="DAAI TV" tvg-logo="https://i.postimg.cc/0yVMKkPy/logo-daaitv-big1.png" group-title="TV INDO",DAAI TV 
 http://iptvid.my.id/ch/daaitv.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJdp2Wnw/the-indonesia-channel.png" group-title="TV INDO",THE INDONESIA CHANNEL
-https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
+http://iptvid.my.id/ch/indonesiana.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5G1jXkP/r21.png" group-title="TV INDO", Reformed 21
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=f26ecc6e3bc7f5e9c8cf23a7c7a315dd102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_uchannel_small1.png?v=2.0.0.13" group-title="TV INDO", U CHANNEL
-http://210.210.155.35/qwr9ew/s/s41/01.m3u8
+http://iptvid.my.id/ch/uchannel.m3u8?by=iptv_id
 #EXTINF:-1 tvg-id="" tvg-name="RRI NET" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rri_small1.png?v=2.0.0.13" group-title="TV INDO",RRI NET 
 http://36.89.47.217:11935/rrinet/live/index.m3u8?checkedby:iptvcat.com 
 
@@ -150,7 +150,7 @@ http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="KIDS", DUNIA ANAK
 http://iptvid.my.id/ch/duniaanak.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bg764mY/hiphip.png" group-title="KIDS", HIPHIP HOREE
-
+http://iptvid.my.id/ch/Konoha_TV.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title="KIDS", HOREE
 http://iptvid.my.id/ch/horee.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mykids_small.png" group-title="KIDS", M KIDZ
@@ -176,7 +176,7 @@ http://iptvid.my.id/ch/axn.m3u8?by=iptv_id
 #EXTINF:-1 tvg-id="KIX" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png?v=2.0.0.13" group-title="HIBURAN", KIX
 http://iptvid.my.id/ch/kix.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="HIBURAN", THRILL
-http://rr2.dens.tv/s/s34/01.m3u8
+https://goldenlivektv.com/Live_TV/Channel_Thrill.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="HIBURAN", BLUE ANT ENTERTAINMENT
 http://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="HIBURAN", BLUE ANT EXTREME
@@ -761,7 +761,7 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title="JAPAN", S GEM
 http://210.210.155.35/session/8d789368-3130-11eb-8016-b82a72d63267/uq2663/h/h19/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png?v=2.0.0.13" group-title="JAPAN", Waku Waku Japan
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=wakuwaku&bandwidth=default&sync=0
+http://iptvid.my.id/ch/waku2.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nhkworld_small.png?v=2.0.0.13" group-title="JAPAN", NHK WORLD
 http://103.226.232.199:8003/play/a056/index.m3u8
 
