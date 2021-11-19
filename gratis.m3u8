@@ -549,8 +549,8 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 https://www.livedoomovies.com/02_MUTV_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zGzfJZ1/lfc.jpg" group-title="SPORTS 2", LIVERPOOL TV
 https://www.livedoomovies.com/02_lfctv_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://i.ibb.co/LhMZySH/red-bull-tv.png" ,RED BULL TV
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://apkresult.com/Logos/DD%20Sports%20Live%20Tv%20App%20Apkresult.jpg" ,DD SPORT
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPhWkqr/fight-sports-home-tv.png" group-title="SPORTS 2", FIGTH SPORT
 http://45.126.83.51/uq2663/h/h05/01.m3u8
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://i.ibb.co/LQJ3LpP/golf-home-tv.png",GOLF CHANNEL
@@ -561,10 +561,12 @@ http://45.126.83.51/uq2663/h/h09/01.m3u8
 http://58.65.171.202:8000/play/10506/index.m3u8
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://i.ibb.co/qd0RNHt/nba-home-tv.png",NBA TV
 http://202.150.161.254:4000/play/a004/index.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://i.pinimg.com/736x/d9/ca/ef/d9caef852a9906dd58e5f0ca6e119113--bull-tv-red-bull.jpg",REDBULL TV
+#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://i.ibb.co/LhMZySH/red-bull-tv.png",REDBULL TV
 http://103.226.232.199:8005/play/a057/index.m3u8
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png",TENNIS HD
 https://laos-tech-live.b-cdn.net/hd-tennis_720/index.m3u8
+#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sport-tv-guide.live/images/stations/a645.png" ,TRT SPORT
+http://185.129.1.242:80/trtspor/index.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-tZGbgfwqWTI/W0__9ckxzLI/AAAAAAAAl24/LHbrC6AHZlkxao2fL8XYssDfvDb8OW0iwCLcBGAs/s1600/tv-sport-channel-logo.png" group-title="SPORTS 2",TVRI SPORT
 http://103.55.39.182/~dusktil2/a.m3u8?q=tvrisport
 
@@ -736,8 +738,8 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
 http://iptvid.my.id/ch/kbsw.m3u8?by=iptv_id
 #EXTINF:-1, group-title="KOREAN" tvg-logo="https://www.infotelevisi.com/asset/images/tv/oh_k.jpg", OH!K
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
-#EXTINF:-1 group-title="KOREAN" tvg-logo="https://static.epg.best/kr/SBS.kr.png" ,SBS
-http://51.81.66.195:1935/krtv/sbs_540/playlist.m3u8
+#EXTINF:-1 group-title="KOREAN" tvg-logo="https://static.epg.best/kr/SBS.kr.png" ,KBC TV
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://static.epg.best/kr/SBS.kr.png" ,SBS HD
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://static.epg.best/kr/SBSPlus.kr.png" ,SBS PLUS
@@ -751,7 +753,7 @@ http://51.81.66.195:1935/krtv/kbs2_540/playlist.m3u8
 #EXTINF:0 group-title="KOREAN" tvg-logo="https://i.imgur.com/kTPYn2E.jpg", MBC
 http://51.81.66.195:1935/krtv/mbc_540/playlist.m3u8
 #EXTINF:0 group-title="KOREAN" tvg-logo="https://i.imgur.com/pnNXFrT.png", MNET
-http://51.81.66.195:1935/krtv/mnet_540/playlist.m3u8
+http://95.217.44.77:80/mnet/index.m3u8
 
 #EXTINF:-1 tvg-id="YTN.KR" tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="KOREAN",YTN
 http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
