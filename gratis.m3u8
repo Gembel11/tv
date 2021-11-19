@@ -345,21 +345,23 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 
 ===================  (( Olahraga ))  ==================
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SPORTS", Champion TV 1HD
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="SPORTS", Champion TV 2HD
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SPORTS", Champion TV 1
-http://103.56.205.114:8888/hls/sport/c_47819/index.m3u8?token=M2RiNjk4NTlmZGUwNTA5MWI3NDc4MjVjYTY3ODg0ZWMxNjM1NjE2ODAwMDAwQWZGeHRHVXFTcGlrbkFZ&serverRegionCode=indonesia
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="SPORTS", Champion TV 2
-http://45.64.99.62:8888/hls/sport/c_47819/index.m3u8?token=NWFlYWVmYzc1ODdhODQzZDllYWYyODE5NTcyNTZmODIxNjM1NjE2ODAwMDAweXNMZXg3V3E0QmhUZkRM&serverRegionCode=indonesia
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SPORTS", CHAMP TV 1
+http://103.226.232.199:8005/play/a060/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="SPORTS", CHAMP TV 2
+http://103.226.232.199:8005/play/a061/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0ngQJZ9/Champion-3.png" group-title="SPORTS", CHAMP TV 3
+http://103.226.232.199:8005/play/a062/index.m3u8
+#EXTINF:-1 tvg-logo="https://s3.eu-west-1.amazonaws.com/static.fimewc.com/wp-content/uploads/2021/10/ChampionTV4_Logo-1200x551.jpg" group-title="SPORTS", CHAMP TV 4
+http://103.226.232.199:8005/play/a084/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="SPORTS", UseeSports 1
-http://topwin-tv.my.id/2/chunklist.m3u8?id=useesport&bandwidth=default&sync=0
+http://103.226.232.199:8005/play/a063/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="SPORTS", UseeSports 2
-http://topwin-tv.my.id/2/chunklist.m3u8?id=useesports2&bandwidth=default&sync=0
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://sport-tv-guide.live/images/stations/a1500.png" tvg-name="ELEVEN SPORTS 1" group-title="SPORTS",ELEVEN SPORTS 1
+http://103.226.232.199:8005/play/a064/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://sport-tv-guide.live/images/stations/a1500.png" tvg-name="ELEVEN SPORTS 1" group-title="SPORTS",ELEVEN SPORTS 1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://sport-tv-guide.live/images/stations/a633.png" tvg-name="ELEVEN SPORTS 2" group-title="SPORTS",ELEVEN SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://sport-tv-guide.live/images/stations/a633.png" tvg-name="ELEVEN SPORTS 2" group-title="SPORTS",ELEVEN SPORTS 2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://sport-tv-guide.live/images/stations/a1502.png" tvg-name="ELEVEN SPORTS 3" group-title="SPORTS",ELEVEN SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://sport-tv-guide.live/images/stations/a1502.png" tvg-name="ELEVEN SPORTS 3" group-title="SPORTS",ELEVEN SPORTS 3
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="SPORTS", Fox Sport 1
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport1&bandwidth=default&sync=0
@@ -417,7 +419,6 @@ http://51.154.223.105:8000/play/a0jq/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV5.pt.png" group-title="SPORTS",SPORT TV 5HD
 
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ogiX67s7-ngXWADPdP7Oo3k7uQiHHG6V5A&usqp=CAU",BT Sport 1 HD
 http://31.220.41.88:8081/live/bt1.stream/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_y1y9xW3DmWRguard-I1R8QYBkvV5p8KGCg&usqp=CAU",BT Sport 2 HD
@@ -465,7 +466,7 @@ https://95-213-224-181.livesports24.online/mfootball2rus.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_tv.png" group-title="SPORTS",Матч!3
 https://46-21-250-207.livesports24.online/football3ua.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://st3.depositphotos.com/27847728/36619/v/600/depositphotos_366195626-stock-illustration-initial-logo-design-vector-template.jpg" group-title="SPORTS", SPOT TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/28bRpyWG/download.jpg" group-title="SPORTS", SPOT TV
 http://103.226.232.199:8005/play/a08w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="SPORTS",SPORTS
@@ -550,18 +551,20 @@ https://www.livedoomovies.com/02_MUTV_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_lfctv_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://i.ibb.co/LhMZySH/red-bull-tv.png" ,RED BULL TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-EXMnQZDjrR0/XA-wIxAIXdI/AAAAAAAADmE/B-6jWSCHQKsxckiFpfpObLqOY5DPJDqcQCLcBGAs/s320/Frekuensi%2BSiaran%2BFight%2BSports%2BSatelit%2BAsiasat%2B7.jpg" group-title="SPORTS 2", FIGTH SPORT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vPhWkqr/fight-sports-home-tv.png" group-title="SPORTS 2", FIGTH SPORT
 http://45.126.83.51/uq2663/h/h05/01.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/3182d0c8-507f-42b9-b53a-cc2b0298941c.png",Golf Channel
+#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://i.ibb.co/LQJ3LpP/golf-home-tv.png",GOLF CHANNEL
 http://58.65.171.202:8000/play/15907/index.m3u8      	  	
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/481-4817028_highlight-png-transparent-png.png" group-title="SPORTS 2", HIGHLIGHT TV
 http://45.126.83.51/uq2663/h/h09/01.m3u8
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/d/de/20200728010847%21NBA_TV_Philippines.png",EXTREME SPORTS
 http://58.65.171.202:8000/play/10506/index.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png",Tennis HD
-https://laos-tech-live.b-cdn.net/hd-tennis_720/index.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png",NBA TV
+#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://i.ibb.co/qd0RNHt/nba-home-tv.png",NBA TV
 http://202.150.161.254:4000/play/a004/index.m3u8
+#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://i.pinimg.com/736x/d9/ca/ef/d9caef852a9906dd58e5f0ca6e119113--bull-tv-red-bull.jpg",REDBULL TV
+http://103.226.232.199:8005/play/a057/index.m3u8
+#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png",TENNIS HD
+https://laos-tech-live.b-cdn.net/hd-tennis_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-tZGbgfwqWTI/W0__9ckxzLI/AAAAAAAAl24/LHbrC6AHZlkxao2fL8XYssDfvDb8OW0iwCLcBGAs/s1600/tv-sport-channel-logo.png" group-title="SPORTS 2",TVRI SPORT
 http://103.55.39.182/~dusktil2/a.m3u8?q=tvrisport
 
@@ -708,7 +711,7 @@ http://rt-france.secure.footprint.net/1107_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/xlogo_seatoday_small.png,qv=1.pagespeed.ic.sQnf1cq2SF.webp" group-title="NEWS", SEA TODAY
 https://fikrulmkc.my.id/bagus/usee-seatoday.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trtworld_small.png" group-title="NEWS", TRT World
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
+http://103.226.232.199:8005/play/a04n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="NEWS", NEWS
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
