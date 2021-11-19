@@ -474,7 +474,7 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 
 ===============   (( SPORTS 2 ))  ===============
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="SPORTS 2", ASTRO ARENA
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_arena_my.png" group-title="SPORTS 2", ASTRO ARENA
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:-1, group-title="SPORTS 2" tvg-logo="https://m.kooora4you.com/images/min/adsport1.png", Abu Dabhi Sport 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
@@ -483,15 +483,15 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_
 #EXTINF:-1, group-title="SPORTS 2" tvg-logo="https://m.kooora4you.com/images/min/adsport3.png", Abu Dabhi Sport 3
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="SPORTS 2",ARENA SPORT 1
+#EXTINF:-1 tvg-logo="http://sporter.com.hr/images/tv-station-cro-arena-sport-1-314.png" group-title="SPORTS 2",ARENA SPORT 1
 http://31.220.41.88:8081/live/arena1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="SPORTS 2",ARENA SPORT 2
+#EXTINF:-1 tvg-logo="http://sporter.com.hr/images/tv-station-cro-arena-sport-2-315.png" group-title="SPORTS 2",ARENA SPORT 2
 http://31.220.41.88:8081/live/arena2.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="SPORTS 2",ARENA SPORT 3
+#EXTINF:-1 tvg-logo="http://sporter.com.hr/images/tv-station-cro-arena-sport-3-316.png" group-title="SPORTS 2",ARENA SPORT 3
 http://31.220.41.88:8081/live/arena3.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="SPORTS 2",ARENA SPORT 4
+#EXTINF:-1 tvg-logo="http://sporter.com.hr/images/tv-station-cro-arena-sport-4-317.png" group-title="SPORTS 2",ARENA SPORT 4
 http://31.220.41.88:8081/live/arena4.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-5-rs.png" group-title="SPORTS 2",ARENA SPORT 5
+#EXTINF:-1 tvg-logo="http://sporter.com.hr/images/tv-station-cro-arena-sport-5-318.png" group-title="SPORTS 2",ARENA SPORT 5
 http://31.220.41.88:8081/live/arena5.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/48208.png" group-title="SPORTS 2", ESPN 1
@@ -501,9 +501,9 @@ http://212.102.60.80/ESPN2/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1599226.png" group-title="SPORTS 2", ESPN 3
 http://31.220.41.88:8081/live/nl-foxsports3.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1599226.png" group-title="SPORTS 2", ESPN 4
-http://31.220.41.88:8081/live/nl-foxsports4.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1599226.png" group-title="SPORTS 2", ESPN 5
-http://31.220.41.88:8081/live/nl-foxsports5.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png" group-title="SPORTS 2",Eurosport 1
 https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
@@ -516,10 +516,12 @@ http://31.220.41.88:8081/live/it-skysportserieA.stream/playlist.m3u8
 http://31.220.41.88:8081/live/de-skybundes1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a335.png" group-title="SPORTS 2",SK 3
 http://31.220.41.88:8081/live/skysports-football.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_hk_select_hd_1.png" group-title="SPORTS 2",Star Sports 1HD
-http://31.220.41.88:8081/live/it-skysport-football.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_hk_select_hd_2.png" group-title="SPORTS 2",Star Sports 2HD
-
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_in_1.png" group-title="SPORTS 2",STAR SPORTS 1HD
+http://58.27.219.166:8000/play/a0ee/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_in_2.png" group-title="SPORTS 2",STAR SPORTS 2HD
+http://58.27.219.166:8000/play/a05f/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_in_3.png" group-title="SPORTS 2",STAR SPORTS 3HD
+http://58.27.219.166:8000/play/a05n/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-1-fr.png" group-title="SPORTS 2",RMC Sport 1
 http://31.220.41.88:8081/live/fr-sfr1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-2-fr.png" group-title="SPORTS 2",RMC Sport 2
@@ -554,10 +556,10 @@ http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(01)/index.
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPhWkqr/fight-sports-home-tv.png" group-title="SPORTS 2", FIGTH SPORT
 http://45.126.83.51/uq2663/h/h05/01.m3u8
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://i.ibb.co/LQJ3LpP/golf-home-tv.png",GOLF CHANNEL
-http://58.65.171.202:8000/play/15907/index.m3u8      	  	
-#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/481-4817028_highlight-png-transparent-png.png" group-title="SPORTS 2", HIGHLIGHT TV
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8      	  	
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRqLdvJPd0eRJmspnM4eLZFZe6Yl-FEsh2Hg&usqp=CAU" group-title="SPORTS 2", HIGHLIGHT TV
 http://45.126.83.51/uq2663/h/h09/01.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/d/de/20200728010847%21NBA_TV_Philippines.png",EXTREME SPORTS
+#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://www.lyngsat.com/logo/tv/ee/extreme_sports_nl.png",EXTREME SPORTS
 http://58.65.171.202:8000/play/10506/index.m3u8
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://i.ibb.co/qd0RNHt/nba-home-tv.png",NBA TV
 http://202.150.161.254:4000/play/a004/index.m3u8
@@ -998,14 +1000,14 @@ http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF: -1 tvg-name="TLC" tvg-logo="https://i.ibb.co/X5vKy5T/SCX.png" group-title="OTHER",TLC
 https://feed.play.mv/live/10005200/HE8qFtMl9Q/master.m3u8
 
-#EXTINF:0 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="OTHER", OTHER 1
-http://83.222.205.65:8080/tntmusic/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="OTHER", OTHER 2
-http://83.222.205.65:8080/zvezda/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="OTHER", OTHER 3
-http://83.222.205.65:8080/russiahd/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="OTHER", OTHER 4
-http://83.222.205.65:8080/dumatv/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="OTHER", HRT 1
+http://109.105.201.198:80/HRT1HD/video.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="OTHER", HRT 2
+http://109.105.201.198:80/HRT2HD/video.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="OTHER", HRT 3
+http://109.105.201.198:80/HRT3HD/video.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="OTHER", HRT 4
+http://109.105.201.198:80/HRT4HD/video.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="OTHER", OTHER 5
 http://83.222.205.65:8080/9volna/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="OTHER", OTHER 6
