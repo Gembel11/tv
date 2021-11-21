@@ -181,7 +181,7 @@ http://93.190.139.35:8278/streams/d/Thrill/playlist.m3u8
 http://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="HIBURAN", BLUE ANT EXTREME
 http://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hT2TzOR.png" group-title="HIBURAN",MY CINEMA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJHvx3nr/mycinema.jpg" group-title="HIBURAN",MY CINEMA
 http://iptvid.my.id/ch/mycn.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJHvx3nr/mycinema.jpg" group-title="HIBURAN",MY CINEMA ASIA
 http://iptvid.my.id/ch/myca.m3u8?by=iptv_id
@@ -236,7 +236,7 @@ https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg
 
 ===================  (( MOVIES ))  =================
 
-#EXTINF:-1, group-title="MOVIES" tvg-logo="https://ibb.co/y872hRF", CCM Movie
+#EXTINF:-1, group-title="MOVIES" tvg-logo="https://i.postimg.cc/Nj7KKz5B/siu-Ez-EO-d.webp", CCM Movie
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="MOVIES", CELESTIAL MOVIE
 http://iptvid.my.id/ch/clstl.m3u8?by=iptv_id
@@ -246,7 +246,7 @@ http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 https://feed.play.mv/live/10005200/Ts9R8pNNTP/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="MOVIES", CINEMA WORLD 
 http://iptvid.my.id/ch/cnmwrld.m3u8?by=iptv_id
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="MOVIES", GALAXY
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" group-title="MOVIES", GALAXY
 http://iptvid.my.id/ch/glx.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="MOVIES", GALAXY PREMIUM
 http://iptvid.my.id/ch/glxprem.m3u8?by=iptv_id
