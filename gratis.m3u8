@@ -199,15 +199,17 @@ http://iptvid.my.id/ch/imc.m3u8?by=iptv_id
 http://iptvid.my.id/ch/biosid.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="HIBURAN", Z Bioskop
 http://iptvid.my.id/ch/zeeb.m3u8?by=iptv_id
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Citra Bioskop" tvg-logo="https://i.ibb.co/3SHxS6G/cbioskop.png" group-title="HIBURAN",Citra Bioskop
+#EXTINF:-1 tvg-logo="http://i.ibb.co/849hWY1/chinese.png" group-title="HIBURAN", CHINESE DRAMA
+http://iptvid.my.id/ch/chinesedrm.m3u8?by=iptv_id
+#EXTINF:-1 tvg-name="Citra Bioskop" tvg-logo="https://i.ibb.co/3SHxS6G/cbioskop.png" group-title="HIBURAN",Citra Bioskop
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=55479c55ebd1efd3ff125f1337100388102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png?v=2.0.0.15" group-title="HIBURAN", Citra Drama
-https://fikrulmkc.my.id/bagus/usee-cdrama.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/DtJ1jkg/citradrama.png" group-title="HIBURAN", CITRA DRAMA
+http://iptvid.my.id/ch/cdrama.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png?v=2.0.0.13" group-title="HIBURAN", Dunia Lain
 https://fikrulmkc.my.id/bagus/usee-dunialain.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fyW26j0h/drakor-plus.png" group-title="HIBURAN",Drakor Plus
 https://andriant.net/andrian.m3u8?channel=drakorplus
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eq8la78.png" group-title="HIBURAN",K DRAMA
+#EXTINF:-1 tvg-logo="http://i.ibb.co/3WZvVhT/kdrama.png" group-title="HIBURAN",K DRAMA
 http://210.210.155.35/qwr9ew/s/s42/01.m3u8
 #EXTINF:-1 tvg-id="sinemaindonesia" tvg-logo="https://i.postimg.cc/T3RrNN8k/SINEMA-INDONESIA.png" group-title="HIBURAN",SINEMA INDONESIA
 http://iptvid.my.id/ch/c_indonesia.m3u8?by=iptv_id
@@ -497,9 +499,7 @@ http://212.102.60.80/ESPN2/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1599226.png" group-title="SPORTS 2", ESPN 3
 http://31.220.41.88:8081/live/nl-foxsports3.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1599226.png" group-title="SPORTS 2", ESPN 4
-
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1599226.png" group-title="SPORTS 2", ESPN 5
-
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png" group-title="SPORTS 2",Eurosport 1
 https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
@@ -538,20 +538,23 @@ http://77.83.117.60:8888/02_2sporthd4_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",true sport 6
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",true sport 7
 
-
+#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://bit.ly/3nyWTBg",BARCA TV
+http://154.62.74.29:1935/live/barza/chunklist.m3u8
 #EXTINF:0 group-title="SPORTS 2" tvg-logo="https://i.ibb.co/DtPTkqK/bm.jpg" ,BAYERN MUNCHEN TV
 https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/es-real-madrid-tv-8842.jpg" group-title="SPORTS 2", REAL MADRID TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+http://154.62.74.11:1935/live/realmadridnntv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VVYqb9q/mu.png" group-title="SPORTS 2", MU TV
 https://www.livedoomovies.com/02_MUTV_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zGzfJZ1/lfc.jpg" group-title="SPORTS 2", LIVERPOOL TV
 https://www.livedoomovies.com/02_lfctv_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://apkresult.com/Logos/DD%20Sports%20Live%20Tv%20App%20Apkresult.jpg" ,DD SPORT
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vPhWkqr/fight-sports-home-tv.png" group-title="SPORTS 2", FIGTH SPORT
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fight_big1.png" group-title="SPORTS 2", FIGTH SPORT
 http://45.126.83.51/uq2663/h/h05/01.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://i.ibb.co/LQJ3LpP/golf-home-tv.png",GOLF CHANNEL
+#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://bit.ly/3oLIa5k",GOL TV
+http://154.62.74.29:1935/live/gol/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS 2" tvg-logo="ttp://images.useetv.com/logo_golfplus_big1.png",GOLF+
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8      	  	
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRqLdvJPd0eRJmspnM4eLZFZe6Yl-FEsh2Hg&usqp=CAU" group-title="SPORTS 2", HIGHLIGHT TV
 http://45.126.83.51/uq2663/h/h09/01.m3u8
@@ -561,8 +564,6 @@ http://58.65.171.202:8000/play/10506/index.m3u8
 http://202.150.161.254:4000/play/a004/index.m3u8
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://i.ibb.co/LhMZySH/red-bull-tv.png",REDBULL TV
 http://103.226.232.199:8005/play/a057/index.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png",TENNIS HD
-https://laos-tech-live.b-cdn.net/hd-tennis_720/index.m3u8
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sport-tv-guide.live/images/stations/a645.png" ,TRT SPORT
 http://185.129.1.242:80/trtspor/index.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-tZGbgfwqWTI/W0__9ckxzLI/AAAAAAAAl24/LHbrC6AHZlkxao2fL8XYssDfvDb8OW0iwCLcBGAs/s1600/tv-sport-channel-logo.png" group-title="SPORTS 2",TVRI SPORT
@@ -671,6 +672,8 @@ https://feed.play.mv/live/10005200/uzBWuYCU0z/master.m3u8
 http://103.226.232.199:8005/play/a08y/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NASA TV" tvg-logo="https://i.imgur.com/iJldO7U.jpg" group-title="KNOWLEDGE",NASA TV 
 http://103.226.232.199:8005/play/a04x/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/0rvthNr/tech.png" group-title="KNOWLEDGE", TECHSTROM
+http://iptvid.my.id/ch/t_storm.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="KNOWLEDGE", TRAVEL TV
 https://feed.play.mv/live/10005200/2dPCepc9DA/master.m3u8
 
@@ -895,7 +898,7 @@ http://103.226.232.199:8003/play/a04f/index.m3u8
 http://iptvid.my.id/ch/cgtndoc.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ctiasia_small.png" group-title="MANDARIN", CTI
 http://iptvid.my.id/ch/cti.m3u8?by=iptv_id
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ctiasia_small.png" group-title="MANDARIN", FORMOSA
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_formosa_big.png" group-title="MANDARIN", FORMOSA
 http://iptvid.my.id/ch/formosa.m3u8?by=iptv_id
 
 
