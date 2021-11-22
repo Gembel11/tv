@@ -176,7 +176,7 @@ http://iptvid.my.id/usee/axn.m3u8?by=iptv_id
 #EXTINF:-1 tvg-id="KIX" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png?v=2.0.0.13" group-title="HIBURAN", KIX
 http://iptvid.my.id/usee/kix.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="HIBURAN", THRILL
-http://iptvid.my.id/usee/thrill.m3u8?by=iptv_id
+https://goldenlivektv.com/Live_TV/Channel_Thrill.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="HIBURAN", BLUE ANT ENTERTAINMENT
 http://iptvid.my.id/usee/rock.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="HIBURAN", BLUE ANT EXTREME
