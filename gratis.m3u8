@@ -124,20 +124,20 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ANIPLUS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="KIDS",ANIPLUS
 http://103.226.232.199:8003/play/a054/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="ANIMAX" tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="KIDS", ANIMAX
-http://iptvid.my.id/usee/animax-1.m3u8?by=iptv_id
-#EXTINF:-1 tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="KIDS", Biznet Kids
+http://iptvid.my.id/usee/animax.m3u8?by=iptv_id
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Px500TzG/Biznet-Kids.jpg" group-title="KIDS", BIZNET KIDS
 http://103.226.232.199:8003/play/a051/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="KIDS", Baby First
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="KIDS", BABY FIRST
 http://103.226.232.199:8003/play/a059/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="KIDS", Baby First
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="KIDS", BABY FIRST
 http://iptvid.my.id/usee/babyfirst.m3u8?by=iptv_id
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnMT1rYT/BABY-TV.png" group-title="KIDS", Baby TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnMT1rYT/BABY-TV.png" group-title="KIDS", BABY TV
 http://103.226.232.199:8003/play/a058/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="KIDS", BOOMERANG
-http://103.226.232.199:8005/play/a05y/index.m3u8
+http://iptvid.my.id/usee/boomerang.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="KIDS", CARTOON NETWORK
 http://iptvid.my.id/usee/cn.m3u8?by=iptv_id
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pFxXY6T.png" group-title="KIDS", CBEEBIES BBC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YZDxCg2/ddddddd.png" group-title="KIDS", CBEEBIES BBC
 http://51.52.156.22:8888/http/003
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5jHf5qq/davinci.png" group-title="KIDS", DAVINCI
 http://iptvid.my.id/usee/davinci.m3u8?by=iptv_id
@@ -145,7 +145,7 @@ http://iptvid.my.id/usee/davinci.m3u8?by=iptv_id
 http://58.65.171.202:8000/play/7350/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png?v=2.0.0.13" group-title="KIDS", Duck TV
 http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="KIDS", Dreamworks
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="KIDS", DREAMWORKS
 http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="KIDS", DUNIA ANAK
 http://iptvid.my.id/usee/duniaanak.m3u8?by=iptv_id
@@ -176,7 +176,7 @@ http://iptvid.my.id/usee/axn.m3u8?by=iptv_id
 #EXTINF:-1 tvg-id="KIX" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png?v=2.0.0.13" group-title="HIBURAN", KIX
 http://iptvid.my.id/usee/kix.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="HIBURAN", THRILL
-http://93.190.139.35:8278/streams/d/Thrill/playlist.m3u8
+http://iptvid.my.id/usee/thrill.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="HIBURAN", BLUE ANT ENTERTAINMENT
 http://iptvid.my.id/usee/rock.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="HIBURAN", BLUE ANT EXTREME
@@ -644,17 +644,17 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 
 =================  KNOWLEDGE  ================
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZV1xoC7.png" group-title="KNOWLEDGE",AFN
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_afc_small.png" group-title="KNOWLEDGE",AFN
 http://iptvid.my.id/usee/afc.m3u8?by=iptv_id
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zCiKeXC.png" group-title="KNOWLEDGE", ANIMAL PLANET
+#EXTINF:-1 tvg-logo="https://bit.ly/3vqsxBV" group-title="KNOWLEDGE", ANIMAL PLANET
 http://50.7.161.82:8277/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="KNOWLEDGE", DISCOVERY HD
 https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="KNOWLEDGE", DISCOVERY SCIENCE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RSv4RTM/hccf.png" group-title="KNOWLEDGE", DISCOVERY SCIENCE
 https://feed.play.mv/live/1009/TRKXs71yTR/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="KNOWLEDGE", DISCOVERY TURBO
 https://feed.play.mv/live/1009/1UjOk2jBiR/master.m3u8
-#EXTINF:-1 tvg-id="natgeo" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="KNOWLEDGE", NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-id="NATGEO" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="KNOWLEDGE", NATIONAL GEOGRAPHIC
 http://iptvid.my.id/usee/natgeo.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?v=2.0.0.13" group-title="KNOWLEDGE", NAT GEO PEOPLE
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeopeople&bandwidth=default&sync=0
@@ -666,7 +666,7 @@ http://iptvid.my.id/usee/crime.m3u8?by=iptv_id
 https://feed.play.mv/live/10005200/37MP1b7MI1/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png?v=2.0.0.13" group-title="KNOWLEDGE", HISTORY
 https://feed.play.mv/live/10005200/isb9Qf3P5M/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png?v=2.0.0.13" group-title="KNOWLEDGE", HISTORY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzpMRtqL/HISTORY-2.png" group-title="KNOWLEDGE", HISTORY 2
 https://feed.play.mv/live/10005200/uzBWuYCU0z/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_outdoor_small.png?v=1.1" group-title="KNOWLEDGE", OUTDOOR CHANNEL
 http://103.226.232.199:8005/play/a08y/index.m3u8
@@ -687,9 +687,9 @@ http://210.210.155.35/qwr9ew/s/s16/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PFTLKT7/aljazeera.png" group-title="NEWS", Aljazeera EN
 http://103.226.232.199:8003/play/a04c/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sW85XB1/abc.png" group-title="NEWS", ABC AUSTRALIA
-http://iptvid.my.id/ch/abcaus.m3u8?by=iptv_id
+http://iptvid.my.id/usee/abcaus.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NM9ThbT3/logo-bloomberg-small1.png" group-title="NEWS", BLOOMBERG
-http://iptvid.my.id/ch/bloomberg.m3u8?by=iptv_id
+http://iptvid.my.id//bloomberg.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_newsasia_small.png?v=2.0.0.13" group-title="NEWS", CNA
 http://103.226.232.199:8003/play/a057/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcid_small.png" group-title="NEWS", CNBC INDONESIA
@@ -699,11 +699,11 @@ https://m3u-editor.com:443/live/tfwqsdxe/no6woqyr/214569127.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.13" group-title="NEWS", CNN INDONESIA
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b280000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnninternational_small.png" group-title="NEWS", CNN INTERNATIONAL
-http://iptvid.my.id/ch/cnninter.m3u8?by=iptv_id
+http://iptvid.my.id/usee/cnninter.m3u8?by=iptv_id
 #EXTINF:-1 tvg-id="dwtv" tvg-logo="https://i.ibb.co/1JSWx2N/dw.png" group-title="NEWS", DW
 http://210.210.155.35/qwr9ew/s/s26/01.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EuroNews" tvg-logo="https://www.useetv.com/assets/images/channel/logo_euronews_small1.png?v=2.0.0.13" group-title="NEWS",EURONEWS
-http://103.226.232.199:8003/play/a049/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EuroNews" tvg-logo="https://www.useetv.com/assets/images/channel/logo_euronews_small1.png?v=2.0.0.13" group-title="NEWS",EURONEWS
+http://iptvid.my.id/usee/euronews.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png?v=2.0.0.13" group-title="NEWS", France 24
 http://103.226.232.199:8003/play/a055/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idx_small.png" group-title="NEWS", IDX
@@ -712,9 +712,9 @@ http://103.226.232.199:8003/play/a050/index.m3u8
 http://rt-news.secure.footprint.net/1103_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="NEWS", RT FRANCE
 http://rt-france.secure.footprint.net/1107_2500Kb.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/xlogo_seatoday_small.png,qv=1.pagespeed.ic.sQnf1cq2SF.webp" group-title="NEWS", SEA TODAY
-https://fikrulmkc.my.id/bagus/usee-seatoday.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trtworld_small.png" group-title="NEWS", TRT World
+#EXTINF:-1 tvg-logo"https://www.useetv.com/assets/images/channel/xlogo_seatoday_small.png" group-title="NEWS", SEA TODAY
+http://iptvid.my.id/usee/seatoday.m3u8?by=iptv_id
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trtworld_small.png" group-title="NEWS", TRT WORLD
 http://103.226.232.199:8005/play/a04n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="NEWS", NEWS
@@ -903,7 +903,7 @@ http://iptvid.my.id/ch/formosa.m3u8?by=iptv_id
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YDSdMw2/citra.png" tvg-id="" tvg-name"Citra Dangdut" group-title="MUSIC",CITRA DANGDUT
-http://iptvid.my.id/ch/cdangdut.m3u8?by=iptv_id
+http://iptvid.my.id/usee/cdangdut.m3u8?by=iptv_id
 #EXTINF:-1 tvg-name="" tvg-logo="https://image.ibb.co/gSFLRz/karaoke_ch.jpg" group-title="MUSIC",KARAOKE CHANNEL
 http://103.226.232.199:8005/play/a096/index.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3qV0I5C" group-title="MUSIC",MALEO TV
@@ -911,7 +911,7 @@ http://103.226.232.199:8005/play/a052/index.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3qV0I5C" group-title="MUSIC",MALEO TV
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SNM8mxhD/logo-ikonser-big.png" group-title="MUSIC",I-KONSER
-http://iptvid.my.id/ch/ikonser.m3u8?by=iptv_id
+http://iptvid.my.id/usee/ikonser.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SsyTYFfh/logo-mtvlive-big.png" group-title="MUSIC",MTV LIVE HD
 http://58.65.171.202:8000/play/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3qTqFCJ" group-title="MUSIC",POP MUSIK
@@ -980,15 +980,14 @@ http://s1.ma
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTsw-FydW/bisnet-adventure-4k.png" group-title="OTHER", Bisnet Adventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5wwJTR7/bisnet-lifestyle.png" group-title="OTHER", Bisnet Lifestyle
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6qnWNK6N/DENS-LIFESTYLE.png" group-title="OTHER",DENS LIFESTYLE
 http://210.210.155.35/session/6afa4666-b06f-11ea-b559-9431acada584/uq2663/h/h28/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13p5v7w3/logo-eatgo-big1.png" group-title="OTHER",EAT&GO
-https://fikrulmkc.my.id/bagus/usee-eatgo.m3u8
+http://iptvid.my.id/usee/eatgo.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MpgxNjcv/logo-fashiontv-big1.png" group-title="OTHER",FASHION HD
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png?v=2.0.0.13" group-title="OTHER",FASHION TV
-https://nonton.site:8443/novi/novi123/280
+http://iptvid.my.id/usee/fashion.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/RTP.png" group-title="OTHER", RTP
 http://210.210.155.35/qwr9ew/s/s38/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv5monde_small1.png?v=2.0.0.13" group-title="OTHER",TV5MONDE
@@ -997,7 +996,7 @@ http://103.226.232.199:8003/play/a04g/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_small.png" group-title="OTHER",HGTV
 http://50.7.161.82:8277/streams/d/HGTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png?v=2.0.0.13" group-title="OTHER", EGG GAME
-http://iptvid.my.id/ch/egg.m3u8?by=iptv_id
+http://iptvid.my.id/usee/egg.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Style_Network_2012_Logo.png/220px-Style_Network_2012_Logo.png" group-title="OTHER", STYLE
 http://45.126.83.51/uq2663/h/h01/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/LifeStyles_Condoms_Logo.svg/562px-LifeStyles_Condoms_Logo.svg.png" group-title="OTHER", LIFE NOW
