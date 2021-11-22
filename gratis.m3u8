@@ -560,7 +560,7 @@ http://154.62.74.29:1935/live/gol/chunklist.m3u8
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8      	  	
 #EXTINF:-1 tvg-logo="https://bit.ly/3kXHLLM" group-title="SPORTS 2", HIGHLIGHT TV
 http://45.126.83.51/uq2663/h/h09/01.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://www.useetv.com/pimages/logo_horizonsports_small.png?",HORIZON SPORTS
+#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://www.useetv.com/pimages/logo_horizonsport_small.png",HORIZON SPORTS
 http://iptvid.my.id/usee/horisonsport.m3u8?by=iptv_id
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://i.ibb.co/qd0RNHt/nba-home-tv.png",NBA TV
 http://202.150.161.254:4000/play/a004/index.m3u8
@@ -714,7 +714,7 @@ http://103.226.232.199:8003/play/a050/index.m3u8
 http://rt-news.secure.footprint.net/1103_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="NEWS", RT FRANCE
 http://rt-france.secure.footprint.net/1107_2500Kb.m3u8
-#EXTINF:-1 tvg-logo"https://www.useetv.com/pimages/logo_seatoday_small.png?v=1" group-title="NEWS", SEA TODAY
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_seatoday_small.png?v=1" group-title="NEWS", SEA TODAY
 http://iptvid.my.id/usee/seatoday.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trtworld_small.png" group-title="NEWS", TRT WORLD
 http://103.226.232.199:8005/play/a04n/index.m3u8
