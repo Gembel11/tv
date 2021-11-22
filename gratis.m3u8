@@ -552,21 +552,23 @@ https://www.livedoomovies.com/02_lfctv_720p/chunklist.m3u8
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fight_big1.png" group-title="SPORTS 2", FIGTH SPORT
 http://45.126.83.51/uq2663/h/h05/01.m3u8
+#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://www.lyngsat.com/logo/tv/ee/extreme_sports_nl.png",EXTREME SPORTS
+http://58.65.171.202:8000/play/10506/index.m3u8
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://bit.ly/3oLIa5k",GOL TV
 http://154.62.74.29:1935/live/gol/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_small1.png",GOLF+
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8      	  	
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRqLdvJPd0eRJmspnM4eLZFZe6Yl-FEsh2Hg&usqp=CAU" group-title="SPORTS 2", HIGHLIGHT TV
+#EXTINF:-1 tvg-logo="https://bit.ly/3kXHLLM" group-title="SPORTS 2", HIGHLIGHT TV
 http://45.126.83.51/uq2663/h/h09/01.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://www.lyngsat.com/logo/tv/ee/extreme_sports_nl.png",EXTREME SPORTS
-http://58.65.171.202:8000/play/10506/index.m3u8
+#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://www.useetv.com/pimages/logo_horizonsports_small.png?",HORIZON SPORTS
+http://iptvid.my.id/usee/horisonsport.m3u8?by=iptv_id
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://i.ibb.co/qd0RNHt/nba-home-tv.png",NBA TV
 http://202.150.161.254:4000/play/a004/index.m3u8
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://i.ibb.co/LhMZySH/red-bull-tv.png",REDBULL TV
 http://103.226.232.199:8005/play/a057/index.m3u8
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sport-tv-guide.live/images/stations/a645.png" ,TRT SPORT
 http://185.129.1.242:80/trtspor/index.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-tZGbgfwqWTI/W0__9ckxzLI/AAAAAAAAl24/LHbrC6AHZlkxao2fL8XYssDfvDb8OW0iwCLcBGAs/s1600/tv-sport-channel-logo.png" group-title="SPORTS 2",TVRI SPORT
+#EXTINF:-1 tvg-logo="https://bit.ly/3oPWWIf" group-title="SPORTS 2",TVRI SPORT
 http://103.55.39.182/~dusktil2/a.m3u8?q=tvrisport
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="SPORTS 2",SPORTS 2
@@ -689,7 +691,7 @@ http://103.226.232.199:8003/play/a04c/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sW85XB1/abc.png" group-title="NEWS", ABC AUSTRALIA
 http://iptvid.my.id/usee/abcaus.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NM9ThbT3/logo-bloomberg-small1.png" group-title="NEWS", BLOOMBERG
-http://iptvid.my.id//bloomberg.m3u8?by=iptv_id
+http://iptvid.my.id/usee/bloomberg.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_newsasia_small.png?v=2.0.0.13" group-title="NEWS", CNA
 http://103.226.232.199:8003/play/a057/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcid_small.png" group-title="NEWS", CNBC INDONESIA
@@ -712,7 +714,7 @@ http://103.226.232.199:8003/play/a050/index.m3u8
 http://rt-news.secure.footprint.net/1103_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="NEWS", RT FRANCE
 http://rt-france.secure.footprint.net/1107_2500Kb.m3u8
-#EXTINF:-1 tvg-logo"https://www.useetv.com/assets/images/channel/xlogo_seatoday_small.png" group-title="NEWS", SEA TODAY
+#EXTINF:-1 tvg-logo"https://www.useetv.com/pimages/logo_seatoday_small.png?v=1" group-title="NEWS", SEA TODAY
 http://iptvid.my.id/usee/seatoday.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trtworld_small.png" group-title="NEWS", TRT WORLD
 http://103.226.232.199:8005/play/a04n/index.m3u8
