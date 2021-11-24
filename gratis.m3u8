@@ -18,13 +18,13 @@ http://103.226.232.199:8005/play/a09d/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRANS 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13" group-title="TV INDO",TRANS 7 
 http://103.226.232.199:8005/play/a06v/index.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png?v=2.0.0.13" group-title="TV INDO",TRANS TV 
-http://iptvid.my.id/usee/transtv.m3u8?by=iptv_id
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d645920e395fedad7bbbed0eca3fe2e0268ef7e5a44f541a7cbde7626ef57566
 #EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="TV INDO",NET TV
-http://iptvid.my.id/usee/net.m3u8?by=iptv_id 
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d82c8d1619ad8176d665453cfb2e55f0268ef7e5a44f541a7cbde7626ef57566 
 #EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13" group-title="TV INDO",RTV
-http://iptvid.my.id/usee/rtv.m3u8?by=iptv_id
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=aab3238922bcc25a6f606eb525ffdc56268ef7e5a44f541a7cbde7626ef57566
 #EXTINF:-1 tvg-id="" tvg-name="INEWS" tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="TV INDO",iNEWS
-http://iptvid.my.id/usee/inews.m3u8?by=iptv_id
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png?v=2.0.0.13" group-title="TV INDO",METRO TV
 http://iptvid.my.id/usee/metrotv.m3u8?by=iptv_id
 #EXTINF:-1 tvg-id="" tvg-name="Kompas TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png?v=2.0.0.13" group-title="TV INDO",KOMPAS TV  
@@ -64,7 +64,7 @@ http://iptvid.my.id/usee/daaitv.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJdp2Wnw/the-indonesia-channel.png" group-title="TV INDO",THE INDONESIA CHANNEL
 http://iptvid.my.id/usee/indonesiana.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5G1jXkP/r21.png" group-title="TV INDO", Reformed 21
-
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_uchannel_small1.png?v=2.0.0.13" group-title="TV INDO", U CHANNEL
 http://iptvid.my.id/usee/uchannel.m3u8?by=iptv_id
 #EXTINF:-1 tvg-id="" tvg-name="RRI NET" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rri_small1.png?v=2.0.0.13" group-title="TV INDO",RRI NET 
@@ -200,7 +200,7 @@ http://iptvid.my.id/usee/biosid.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="HIBURAN", Z Bioskop
 http://iptvid.my.id/usee/zeeb.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="http://i.ibb.co/849hWY1/chinese.png" group-title="HIBURAN", CHINESE DRAMA
-http://iptvid.my.id/usee/chinesedrm.m3u8?by=iptv_id
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
 #EXTINF:-1 tvg-name="Citra Bioskop" tvg-logo="https://i.ibb.co/3SHxS6G/cbioskop.png" group-title="HIBURAN",Citra Bioskop
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=55479c55ebd1efd3ff125f1337100388102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="http://i.ibb.co/DtJ1jkg/citradrama.png" group-title="HIBURAN", CITRA DRAMA
@@ -729,7 +729,7 @@ http://iptvid.my.id/usee/kplus.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small.png?v=2.0.0.13" group-title="KOREAN", S ONE
 http://iptvid.my.id/usee/sone.m3u8?by=iptv_id
 #EXTINF:-1, group-title="KOREAN" tvg-logo="https://i.postimg.cc/nhJSdkS6/logo-sone-big1.png", S ONE (ENG SUB)
-http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+http://93.190.139.35:8278/streams/d/One/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x1vycVRZ/logo-tvn-big.png" tvg-id="TVN" group-title="KOREAN", TVN
 http://iptvid.my.id/usee/tvn.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" tvg-id="TVN" group-title="KOREAN", TVN 
