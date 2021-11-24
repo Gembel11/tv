@@ -290,8 +290,14 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y6FnzMhN/RED-BY-HBO.png" group-title="MOVIES",RED by HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 
+#EXTINF:-1 tvg-id="PAR.US" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk37gPllIL6jb0_8NC2becfwovetalGnvZAw&usqp=CAU" group-title="MOVIES",PARAMOUNT TV
+https://feed.play.mv/live/10005200/zC2aLVTjgF/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png?v=2.0.0.13" group-title="MOVIES", WARNER BROS
 http://iptvid.my.id/usee/wrnr.m3u8?by=iptv_id
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/JOJ_WAU_TV.jpg/220px-JOJ_WAU_TV.jpg" group-title="MOVIES",WAU HD
+http://91.236.82.77/hls/wau-540.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBX1YMrs/WOW-TV.png" group-title="MOVIES",WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="MOVIES",UZUTV MOVIES
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
@@ -320,23 +326,16 @@ http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES 2",HBO
 
-#EXTINF:0 group-title="MOVIES 2" tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png",hbo east
-http://51.79.82.231:8080/US_HBO_EAST/index.m3u8
-#EXTINF:0 group-title="MOVIES 2" tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png",hbo west
-http://51.79.82.231:8080/US_HBO_WEST/index.m3u8
-#EXTINF:0 group-title="MOVIES 2" tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png",hbo2
-http://51.79.82.231:8080/US_HBO_2/index.m3u8
-#EXTINF:0 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/BQqXZKMn/hbofam.png",hbo family
-http://51.79.82.231:8080/US_HBO_FAMILY/index.m3u8
-#EXTINF:0 group-title="MOVIES 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz33HnRoWmX8do4fI301ojh2oxLctX3EwbdA&usqp=CAU",hbo signature
-http://51.79.82.231:8080/US_HBO_SIGNATURE/index.m3u8
-
-#EXTINF:-1 tvg-id="PAR.US" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk37gPllIL6jb0_8NC2becfwovetalGnvZAw&usqp=CAU" group-title="MOVIES 2",PARAMOUNT TV
-https://feed.play.mv/live/10005200/zC2aLVTjgF/master.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/JOJ_WAU_TV.jpg/220px-JOJ_WAU_TV.jpg" group-title="MOVIES 2",WAU HD
-http://91.236.82.77/hls/wau-540.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBX1YMrs/WOW-TV.png" group-title="MOVIES 2",WOW TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+#EXTINF:0 group-title="MOVIES 2" tvg-logo="https://gageloniadotherphotos.files.wordpress.com/2013/07/bourne3.jpg",THE BOURNE MOVIES
+http://121.12.115.162/txdirect.hls.huya.com/src/1099531752780-1099531752780-86436234011869184-2199063629016-10057-A-0-1.m3u8
+#EXTINF:0 group-title="MOVIES 2" tvg-logo="https://cdn.medcom.id/images/content/2018/03/15/845610/aqmHIDc9vB.jpg",TRANSFORMERS
+http://121.12.115.162/txdirect.hls.huya.com/src/1099531752786-1099531752786-86436259781672960-2199063629028-10057-A-0-1.m3u8
+#EXTINF:0 group-title="MOVIES 2" tvg-logo="https://www.soda.com/wp-content/uploads/2020/04/pirates-of-the-carribbean-streaming-guide-600x361.jpg",PIRATES OF THE CARIBEAN
+http://121.12.115.162/txdirect.hls.huya.com/src/1099531752785-1099531752785-86436255486705664-2199063629026-10057-A-0-1.m3u8
+#EXTINF:0 group-title="MOVIES 2" tvg-logo="https://picfiles.alphacoders.com/118/118946.png",RESIDENT EVIL 
+http://121.12.115.162/txdirect.hls.huya.com/src/1099531752748-1099531752748-86436096572915712-2199063628952-10057-A-0-1.m3u8
+#EXTINF:0 group-title="MOVIES 2" tvg-logo="https://www.wowkeren.com/display/images/300x188/2020/07/02/00318373.jpg",MARVEL STUDIOS
+http://121.12.115.162/txdirect.hls.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="MOVIES 2",UZUTV MOVIES
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
@@ -761,6 +760,8 @@ http://95.217.44.77:80/mnet/index.m3u8
 
 #EXTINF:-1 tvg-id="YTN.KR" tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="KOREAN",YTN
 http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://trickyoutsider.com/wp-content/uploads/2019/09/Running-Man-1.png" group-title="KOREAN",RUNNING MAN TV
+http://121.12.115.162/txdirect.hls.huya.com/src/1250011-1250011-5368756364640256-2777071322-10057-A-0-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="KOREAN",KOREAN
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
