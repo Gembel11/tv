@@ -107,9 +107,9 @@ http://iptvid.my.id/usee/jitv.m3u8?by=iptv_id
 http://wowza58.indostreamserver.com:1935/mgstv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CM6w8Rft/persija.png" group-title="TV LOKAL",Persija TV
 http://stream1.ninmedia.tv:1935/persijatv/udp.stream_360p/chunklist_w799388038.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qn1ECVd.png" group-title="TV LOKAL",RCTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8snQktMW/RCTV.webp" group-title="TV LOKAL",RCTV
 https://v10.siar.us/rctv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yU19zfG.png" group-title="TV LOKAL",Radar TasikmalayaTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8snQktMW/RCTV.webp" group-title="TV LOKAL",Radar TasikmalayaTV
 http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TATV" tvg-logo="https://bit.ly/3HIa4bc" group-title="TV LOKAL", TATV
 http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
@@ -141,7 +141,7 @@ http://iptvid.my.id/usee/cn.m3u8?by=iptv_id
 http://51.52.156.22:8888/http/003
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5jHf5qq/davinci.png" group-title="KIDS", DAVINCI
 http://iptvid.my.id/usee/davinci.m3u8?by=iptv_id
-#EXTINF:-1 tvg-ID="" tvg-name="DISNEY" tvg-logo="https://i.imgur.com/5ZWo1R6.png" group-title="KIDS", DISNEY CHANNEL
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY" tvg-logo="https://i.postimg.cc/PxM7rSkx/DISNEY.webp" group-title="KIDS", DISNEY CHANNEL
 http://58.65.171.202:8000/play/7350/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png?v=2.0.0.13" group-title="KIDS", Duck TV
 http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
@@ -684,7 +684,7 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 ====================  NEWS  ==================
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PFTLKT7/aljazeera.png" group-title="NEWS", Aljazeera AR
-http://210.210.155.35/qwr9ew/s/s16/01.m3u8
+http://92.43.140.200/s69/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PFTLKT7/aljazeera.png" group-title="NEWS", Aljazeera EN
 http://103.226.232.199:8003/play/a04c/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sW85XB1/abc.png" group-title="NEWS", ABC AUSTRALIA
@@ -696,7 +696,7 @@ http://103.226.232.199:8003/play/a057/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcid_small.png" group-title="NEWS", CNBC INDONESIA
 https://fikrulmkc.my.id/bagus/usee-cnbcindonesia.m3u8
 #EXTINF:-1 tvg-id="cnbcasia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcasias_small.png" group-title="NEWS", CNBC ASIA
-https://m3u-editor.com:443/live/tfwqsdxe/no6woqyr/214569127.m3u8
+http://92.43.140.200/s65/04.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.13" group-title="NEWS", CNN INDONESIA
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b280000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnninternational_small.png" group-title="NEWS", CNN INTERNATIONAL
