@@ -277,18 +277,18 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" group-title="MOVIES",HBO SIGNATURE
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgxTrzm/red.png" group-title="MOVIES",RED BY HBO
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjqKqhch/CINEMAX.png" group-title="MOVIES",CINEMAX
-
+https://hboasialive.akamaized.net/hls/live/2007802/MAX/index.m3u8?hdnts=exp=1638270014~hmac=796ee5f4377409b0b5f460d5f462b9ad54154407c552c2ae1be5887f7ffab00e
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5Ng3X8Rd/10626165-ico.png" group-title="MOVIES",HBO
-https://gratismkctv.net/film/hbo.m3u8
+https://hboasialive.akamaized.net/hls/live/2007800/HBO/index.m3u8?hdnts=exp=1638269105~hmac=85e0375415c87e1df5135988b05785e38ee65f8d3b48cd0808bd1c338c732468
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JhDcYv4M/10626274-ico.png" group-title="MOVIES",HBO FAMILY
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+https://hboasialive.akamaized.net/hls/live/2007799/FAMILY/index.m3u8?hdnts=exp=1638270012~hmac=40aa7c5de18981db0fd6d86d53a886cde2cc47ca4c2a820a27aa499d7e9ddef9
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VkNFn5xS/10626238-ico.png" group-title="MOVIES",HBO HITS
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+https://hboasialive.akamaized.net/hls/live/2007801/HITS/index.m3u8?hdnts=exp=1638270011~hmac=d4f0217d6abf45144cef3b45311851f6314bf6001c007168269da51a0e0ea95d
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjPk4Btd/10626267-ico.png" group-title="MOVIES",HBO SIGNATURE
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+https://hboasialive.akamaized.net/hls/live/2007805/SIG/index.m3u8?hdnts=exp=1638269106~hmac=542aa307f33bf2a2413eaa9eb552652069a1cc9d1afa1c71a2872e84bd2855c3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y6FnzMhN/RED-BY-HBO.png" group-title="MOVIES",RED by HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+
 
 #EXTINF:-1 tvg-id="PAR.US" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk37gPllIL6jb0_8NC2becfwovetalGnvZAw&usqp=CAU" group-title="MOVIES",PARAMOUNT TV
 https://feed.play.mv/live/10005200/zC2aLVTjgF/master.m3u8
