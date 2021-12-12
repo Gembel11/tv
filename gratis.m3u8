@@ -109,7 +109,7 @@ http://wowza58.indostreamserver.com:1935/mgstv/live/playlist.m3u8
 http://stream1.ninmedia.tv:1935/persijatv/udp.stream_360p/chunklist_w799388038.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8snQktMW/RCTV.webp" group-title="TV LOKAL",RCTV
 https://v10.siar.us/rctv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8snQktMW/RCTV.webp" group-title="TV LOKAL",Radar TasikmalayaTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGGgH4C3/RTS.webp" group-title="TV LOKAL",Radar TasikmalayaTV
 http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TATV" tvg-logo="https://bit.ly/3HIa4bc" group-title="TV LOKAL", TATV
 http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
@@ -122,9 +122,9 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 =====================  (( KIDS ))  =====================
 
 #EXTINF:-1 tvg-ID="" tvg-name="ANIPLUS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="KIDS",ANIPLUS
-http://103.226.232.199:8003/play/a054/index.m3u8
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=aniplus&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-ID="" tvg-name="ANIMAX" tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="KIDS", ANIMAX
-http://iptvid.my.id/usee/animax.m3u8?by=iptv_id
+https://goldenlivektv.com/Live_TV/Channel_Animax.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Px500TzG/Biznet-Kids.jpg" group-title="KIDS", BIZNET KIDS
 http://103.226.232.199:8003/play/a051/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="KIDS", BABY FIRST
@@ -172,9 +172,9 @@ https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg
 ===================== (( HIBURAN )) ==================
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="HIBURAN",AXN
-http://iptvid.my.id/usee/axn.m3u8?by=iptv_id
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=axn&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="KIX" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png?v=2.0.0.13" group-title="HIBURAN", KIX
-http://iptvid.my.id/usee/kix.m3u8?by=iptv_id
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=kix&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="HIBURAN", THRILL
 https://goldenlivektv.com/Live_TV/Channel_Thrill.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="HIBURAN", BLUE ANT ENTERTAINMENT
@@ -182,19 +182,19 @@ http://iptvid.my.id/usee/rock.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="HIBURAN", BLUE ANT EXTREME
 http://iptvid.my.id/usee/rockext.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJHvx3nr/mycinema.jpg" group-title="HIBURAN",MY CINEMA
-http://iptvid.my.id/usee/mycn.m3u8?by=iptv_id
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=mycinema&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJHvx3nr/mycinema.jpg" group-title="HIBURAN",MY CINEMA ASIA
-http://iptvid.my.id/usee/myca.m3u8?by=iptv_id
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=mycinemaasia&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJHvx3nr/mycinema.jpg" group-title="HIBURAN",MY CINEMA FAMILY
-http://iptvid.my.id/usee/myfc.m3u8?by=iptv_id
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=myfamily&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KzBHFDYf/hits.png" group-title="HIBURAN",HITS
-http://iptvid.my.id/usee/hits.m3u8?by=iptv_id
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=hits&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KzBHFDYf/hits.png" group-title="HIBURAN",HITS MOVIES
 http://iptvid.my.id/usee/hitsmovie.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="HIBURAN", FLIK
 http://iptvid.my.id/usee/flik.m3u8?by=iptv_id 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="HIBURAN", IMC 
-http://iptvid.my.id/usee/imc.m3u8?by=iptv_id
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=imc&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="HIBURAN", BIOSKOP INDONESIA
 http://iptvid.my.id/usee/biosid.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="HIBURAN", Z Bioskop
@@ -239,17 +239,17 @@ https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://i.postimg.cc/Nj7KKz5B/siu-Ez-EO-d.webp", CCM Movie
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="MOVIES", CELESTIAL MOVIE
-http://iptvid.my.id/usee/clstl.m3u8?by=iptv_id
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=celestialmovie&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="MOVIES", CELESTIAL MOVIE
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CHGDGns/MCE.png" group-title="MOVIES", CINEMA EUROPE
 https://feed.play.mv/live/10005200/Ts9R8pNNTP/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="MOVIES", CINEMA WORLD 
-http://iptvid.my.id/usee/cnmwrld.m3u8?by=iptv_id
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=cinemaworld&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" group-title="MOVIES", GALAXY
-http://iptvid.my.id/usee/glx.m3u8?by=iptv_id
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=galaxy&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="MOVIES", GALAXY PREMIUM
-http://iptvid.my.id/usee/glxprem.m3u8?by=iptv_id
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=galaxypremium&gumisasakTV=default&sync=0
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="https://i.ibb.co/WHS5GLc/fox.png" group-title="MOVIES",FOX
 http://58.65.171.202:8000/play/3111/index.m3u8
@@ -351,9 +351,9 @@ http://103.226.232.199:8005/play/a062/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.eu-west-1.amazonaws.com/static.fimewc.com/wp-content/uploads/2021/10/ChampionTV4_Logo-1200x551.jpg" group-title="SPORTS", CHAMP TV 4
 http://103.226.232.199:8005/play/a084/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="SPORTS", UseeSports 1
-http://103.226.232.199:8005/play/a063/index.m3u8
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=useesport&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="SPORTS", UseeSports 2
-http://103.226.232.199:8005/play/a064/index.m3u8
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=useesport2&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://sport-tv-guide.live/images/stations/a1500.png" tvg-name="ELEVEN SPORTS 1" group-title="SPORTS",ELEVEN SPORTS 1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://sport-tv-guide.live/images/stations/a633.png" tvg-name="ELEVEN SPORTS 2" group-title="SPORTS",ELEVEN SPORTS 2
@@ -376,7 +376,9 @@ http://iptv.jinggo-zone.cf:8080/F14741/cfe49823/157557
 http://iptv.jinggo-zone.cf:8080/F14741/cfe49823/157558
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",True Premier HD 1
+http://103.226.232.199:8005/play/a063/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",True Premier HD 2
+http://103.226.232.199:8005/play/a064/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",True Premier HD 3
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png",True Premier HD 4
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png",True Premier HD 5
@@ -581,10 +583,10 @@ http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png",BEIN 3 PREMIUM
 http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", BEIN 1 FR
-http://d20.aminouras.xyz/live/33523510/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", BEIN 2 FR
-http://d18.aminouras.xyz/live/68525202/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", BEIN 1 ID
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=bein1&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", BEIN 2 ID
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=bein2&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", BEIN 1 EXTRA
 http://d2.aminouras.xyz/live/9962564400/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", BEIN 2 EXTRA
@@ -724,17 +726,17 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 ===================  (( KOREAN ))  ===================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWFhMHwW/logo-kplus-big1.png" group-title="KOREAN", K+
-http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=kplus&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small.png?v=2.0.0.13" group-title="KOREAN", S ONE
-http://iptvid.my.id/usee/sone.m3u8?by=iptv_id
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=sone&gumisasakTV=default&sync=0
 #EXTINF:-1, group-title="KOREAN" tvg-logo="https://i.postimg.cc/nhJSdkS6/logo-sone-big1.png", S ONE (ENG SUB)
 http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x1vycVRZ/logo-tvn-big.png" tvg-id="TVN" group-title="KOREAN", TVN
-http://iptvid.my.id/usee/tvn.m3u8?by=iptv_id
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=tvn&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" tvg-id="TVN" group-title="KOREAN", TVN 
 http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qttp493L/10441080-ico.png" group-title="KOREAN", TVN MOVIES 
-http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=tvnmovies&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_arirang_small.png" group-title="KOREAN", ARIRANG
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/44wFpMr4/logo-kbsw-orld-small.png" group-title="KOREAN", KBS WORLD 
@@ -768,12 +770,12 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 
 ==================  ((( JAPAN )))  ==================
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title="JAPAN", S GEM (NO SUB)
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title="JAPAN", S GEM 
 http://playlist.urfan.web.id/uq2663/h/h19/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title="JAPAN", S GEM
-http://iptvid.my.id/usee/sgem.m3u8?by=iptv_id
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=sgem&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png?v=2.0.0.13" group-title="JAPAN", WAKUWAKU JAPAN
-http://iptvid.my.id/usee/waku2.m3u8?by=iptv_id
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=wakuwaku&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nhkworld_small.png?v=2.0.0.13" group-title="JAPAN", NHK WORLD
 http://103.226.232.199:8003/play/a056/index.m3u8
 
