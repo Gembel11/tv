@@ -245,7 +245,7 @@ http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CHGDGns/MCE.png" group-title="MOVIES", CINEMA EUROPE
 https://feed.play.mv/live/10005200/Ts9R8pNNTP/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="MOVIES", CINEMA WORLD 
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=cinemaworld&gumisasakTV=default&sync=0
+http://rr1.dens.tv/h/h04/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" group-title="MOVIES", GALAXY
 http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=galaxy&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="MOVIES", GALAXY PREMIUM
@@ -353,7 +353,7 @@ http://103.226.232.199:8005/play/a084/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="SPORTS", UseeSports 1
 http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=useesport&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="SPORTS", UseeSports 2
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=useesport2&gumisasakTV=default&sync=0
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=useesports2&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://sport-tv-guide.live/images/stations/a1500.png" tvg-name="ELEVEN SPORTS 1" group-title="SPORTS",ELEVEN SPORTS 1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://sport-tv-guide.live/images/stations/a633.png" tvg-name="ELEVEN SPORTS 2" group-title="SPORTS",ELEVEN SPORTS 2
@@ -397,15 +397,10 @@ http://103.226.232.199:8005/play/a064/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_sports_mm.png" group-title="SPORTS",SkyNet Sports 5
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_sports_mm.png" group-title="SPORTS",SkyNet Sports 6
 
-
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV1.pt.png" group-title="SPORTS",SPORT TV 1
-
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV2.pt.png" group-title="SPORTS",SPORT TV 2
-
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV3.pt.png" group-title="SPORTS",SPORT TV 3
-
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV4.pt.png" group-title="SPORTS",SPORT TV 4
-
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV5.pt.png" group-title="SPORTS",SPORT TV 5
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV1.pt.png" group-title="SPORTS",SPORT TV 1HD
