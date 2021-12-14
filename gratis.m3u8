@@ -8,7 +8,7 @@ http://210.210.155.35/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15" group-title="TV INDO",INDOSIAR
 https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="TV INDO",SCTV 
-https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8 
+https://goldenlivektv.com/Live_TV/Channel_Sctv.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="TV INDO",RCTI
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="TV INDO",MNCTV
@@ -16,9 +16,9 @@ https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merd
 #EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="TV INDO",GTV
 https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRANS 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13" group-title="TV INDO",TRANS 7 
-https://visionplus-stream.visionplus.id/live/eds/TRANS7-transformer/sa_hls/TRANS7-transformer.m3u8 
+https://goldenlivektv.com/mumet-mpd/Khoerul_Television.m3u8?id=trans7&Khoerul=default&Television=0 
 #EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png?v=2.0.0.13" group-title="TV INDO",TRANS TV 
-https://visionplus-stream.visionplus.id/live/eds/TRANSTV-autobot/sa_hls/TRANSTV-autobot.m3u8
+https://goldenlivektv.com/mumet-mpd/Khoerul_Television.m3u8?id=transtv&Khoerul=default&Television=0
 #EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="TV INDO",NET TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d82c8d1619ad8176d665453cfb2e55f0268ef7e5a44f541a7cbde7626ef57566 
 #EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13" group-title="TV INDO",RTV
@@ -30,9 +30,9 @@ https://visionplus-stream.visionplus.id/live/eds/MetroTV-RTX/sa_hls/MetroTV-RTX.
 #EXTINF:-1 tvg-id="" tvg-name="Kompas TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png?v=2.0.0.13" group-title="TV INDO",KOMPAS TV  
 http://103.226.232.199:8003/play/a04z/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="TV INDO", TV ONE
-http://103.226.232.199:8003/play/a04y/index.m3u8
+https://goldenlivektv.com/mumet-mpd/Khoerul_Television.m3u8?id=tvone&Khoerul=default&Television=0
 #EXTINF:-1 tvg-id="" tvg-name="ANTARA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_antara_small1.png?v=2.0.0.13" group-title="TV INDO",ANTARA TV 
-http://iptvid.my.id/usee/antara.m3u8?by=iptv_id
+https://goldenlivektv.com/mumet-mpd/Khoerul_Television.m3u8?id=antara&Khoerul=default&Television=0
 #EXTINF:-1 tvg-id="" tvg-name="Berita Satu" tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?v=2.0.0.13" group-title="TV INDO",BERITA SATU 
 http://103.226.232.199:8003/play/a04x/index.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3Cy1QOT" group-title="TV INDO",HI INDO
@@ -63,7 +63,7 @@ https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
 http://iptvid.my.id/usee/daaitv.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJdp2Wnw/the-indonesia-channel.png" group-title="TV INDO",THE INDONESIA CHANNEL
 http://iptvid.my.id/usee/indonesiana.m3u8?by=iptv_id
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5G1jXkP/r21.png" group-title="TV INDO", Reformed 21
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5G1jXkP/r21.png" group-title="TV INDO", REFORMED 21
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_uchannel_small1.png?v=2.0.0.13" group-title="TV INDO", U CHANNEL
 http://iptvid.my.id/usee/uchannel.m3u8?by=iptv_id
@@ -130,7 +130,7 @@ http://103.226.232.199:8003/play/a051/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="KIDS", BABY FIRST
 http://103.226.232.199:8003/play/a059/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="KIDS", BABY FIRST
-http://iptvid.my.id/usee/babyfirst.m3u8?by=iptv_id
+https://goldenlivektv.com/mumet-mpd/Khoerul_Television.m3u8?id=babyfirst&Khoerul=default&Television=0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnMT1rYT/BABY-TV.png" group-title="KIDS", BABY TV
 http://103.226.232.199:8003/play/a058/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="KIDS", BOOMERANG
@@ -241,11 +241,11 @@ http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="MOVIES", CELESTIAL MOVIE
 http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=celestialmovie&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="MOVIES", CELESTIAL MOVIE
-http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CHGDGns/MCE.png" group-title="MOVIES", CINEMA EUROPE
 https://feed.play.mv/live/10005200/Ts9R8pNNTP/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="MOVIES", CINEMA WORLD 
-http://rr1.dens.tv/h/h04/index.m3u8
+https://goldenlivektv.com/Live_TV/Channel_Cinemaworld.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" group-title="MOVIES", GALAXY
 http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=galaxy&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="MOVIES", GALAXY PREMIUM
@@ -705,7 +705,7 @@ http://iptvid.my.id/usee/cnninter.m3u8?by=iptv_id
 #EXTINF:-1 tvg-id="dwtv" tvg-logo="https://i.ibb.co/1JSWx2N/dw.png" group-title="NEWS", DW
 http://210.210.155.35/qwr9ew/s/s26/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EuroNews" tvg-logo="https://www.useetv.com/assets/images/channel/logo_euronews_small1.png?v=2.0.0.13" group-title="NEWS",EURONEWS
-http://iptvid.my.id/usee/euronews.m3u8?by=iptv_id
+https://goldenlivektv.com/Live_TV/Channel_Euronews.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png?v=2.0.0.13" group-title="NEWS", France 24
 http://103.226.232.199:8003/play/a055/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idx_small.png" group-title="NEWS", IDX
@@ -715,7 +715,7 @@ http://rt-news.secure.footprint.net/1103_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="NEWS", RT FRANCE
 http://rt-france.secure.footprint.net/1107_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_seatoday_small.png?v=1" group-title="NEWS", SEA TODAY
-http://iptvid.my.id/usee/seatoday.m3u8?by=iptv_id
+https://goldenlivektv.com/Live_TV/Channel_Seatoday.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trtworld_small.png" group-title="NEWS", TRT WORLD
 http://103.226.232.199:8005/play/a04n/index.m3u8
 
@@ -728,12 +728,12 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=kplus&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small.png?v=2.0.0.13" group-title="KOREAN", S ONE
 http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=sone&gumisasakTV=default&sync=0
-#EXTINF:-1, group-title="KOREAN" tvg-logo="https://i.postimg.cc/nhJSdkS6/logo-sone-big1.png", S ONE (ENG SUB)
-http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
+#EXTINF:-1, group-title="KOREAN" tvg-logo="https://i.postimg.cc/nhJSdkS6/logo-sone-big1.png", S ONE (IND SUB)
+https://goldenlivektv.com/mumet-mpd/Khoerul_Television.m3u8?id=sone&Khoerul=default&Television=0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x1vycVRZ/logo-tvn-big.png" tvg-id="TVN" group-title="KOREAN", TVN
 http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=tvn&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" tvg-id="TVN" group-title="KOREAN", TVN 
-http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
+https://goldenlivektv.com/mumet-mpd/Khoerul_Television.m3u8?id=tvn&Khoerul=default&Television=0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qttp493L/10441080-ico.png" group-title="KOREAN", TVN MOVIES 
 http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=tvnmovies&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_arirang_small.png" group-title="KOREAN", ARIRANG
@@ -770,11 +770,11 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 ==================  ((( JAPAN )))  ==================
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title="JAPAN", S GEM 
-http://playlist.urfan.web.id/uq2663/h/h19/01.m3u8
+https://goldenlivektv.com/mumet-mpd/Khoerul_Television.m3u8?id=sgem&Khoerul=default&Television=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title="JAPAN", S GEM
 http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=sgem&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png?v=2.0.0.13" group-title="JAPAN", WAKUWAKU JAPAN
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=wakuwaku&gumisasakTV=default&sync=0
+https://goldenlivektv.com/mumet-mpd/Khoerul_Television.m3u8?id=wakuwaku&Khoerul=default&Television=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nhkworld_small.png?v=2.0.0.13" group-title="JAPAN", NHK WORLD
 http://103.226.232.199:8003/play/a056/index.m3u8
 
@@ -901,9 +901,9 @@ http://103.226.232.199:8003/play/a04f/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cgtndocumentary_small1.png?v=2.0.0.13" group-title="MANDARIN", CGTN DOCUMENTARY
 http://iptvid.my.id/ch/cgtndoc.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ctiasia_small.png" group-title="MANDARIN", CTI
-http://iptvid.my.id/ch/cti.m3u8?by=iptv_id
+https://goldenlivektv.com/mumet-mpd/Khoerul_Television.m3u8?id=cti&Khoerul=default&Television=0
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_formosa_big.png" group-title="MANDARIN", FORMOSA
-http://iptvid.my.id/ch/formosa.m3u8?by=iptv_id
+https://goldenlivektv.com/mumet-mpd/Khoerul_Television.m3u8?id=formosa&Khoerul=default&Television=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_starchinesechannel_small.png" group-title="MANDARIN", STAR CHINESE CHANNEL
 http://usee.galleryiptv.my.id/starchinese/channel.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_starchinesemovies_small.png" group-title="MANDARIN", STAR CHINESE MOVIES
