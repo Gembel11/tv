@@ -380,7 +380,7 @@ http://iptv.jinggo-zone.cf:8080/F14741/cfe49823/157557
 http://iptv.jinggo-zone.cf:8080/F14741/cfe49823/157558
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",True Premier HD 1
-http://103.226.232.199:8005/play/a063/index.m3u8
+http://200.126.115.156:8000/play/a0i7/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",True Premier HD 2
 http://103.226.232.199:8005/play/a064/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",True Premier HD 3
