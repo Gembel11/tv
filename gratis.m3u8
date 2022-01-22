@@ -351,13 +351,13 @@ http://103.226.232.199:8005/play/a062/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.eu-west-1.amazonaws.com/static.fimewc.com/wp-content/uploads/2021/10/ChampionTV4_Logo-1200x551.jpg" group-title="SPORTS", CHAMP TV 4
 http://103.226.232.199:8005/play/a084/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_useesport_small.png" group-title="SPORTS", USEESPORTS 1
-https://goldenlivektv.com/mumet-mpd/Khoerul_Television.m3u8?id=useesport&Khoerul=default&Television=0
+http://43.252.237.182:8000/play/a00d
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_useesports2_small.png" group-title="SPORTS", USEESPORTS 2
-https://goldenlivektv.com/mumet-mpd/Khoerul_Television.m3u8?id=useesports2&Khoerul=default&Television=0
+http://43.252.237.182:8000/play/a00e
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="SPORTS", USEESPORTS 1
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=useesport&gumisasakTV=default&sync=0
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="SPORTS", USEESPORTS 2
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=useesports2&gumisasakTV=default&sync=0
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://sport-tv-guide.live/images/stations/a1500.png" tvg-name="ELEVEN SPORTS 1" group-title="SPORTS",ELEVEN SPORTS 1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://sport-tv-guide.live/images/stations/a633.png" tvg-name="ELEVEN SPORTS 2" group-title="SPORTS",ELEVEN SPORTS 2
@@ -418,17 +418,17 @@ http://51.154.223.105:8000/play/a0jq/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV5.pt.png" group-title="SPORTS",SPORT TV 5HD
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ogiX67s7-ngXWADPdP7Oo3k7uQiHHG6V5A&usqp=CAU",BT Sport 1 HD
-http://31.220.41.88:8081/live/bt1.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_y1y9xW3DmWRguard-I1R8QYBkvV5p8KGCg&usqp=CAU",BT Sport 2 HD
-http://194.76.186.100:8000/play/a01k/index.m3u8
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_nFv0hF0YjEtd7GkPn207jzQb9Z_Z29rqwg&usqp=CAU",BT Sport 3 HD
-http://31.220.41.88:8081/live/bt33.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png" group-title="SPORTS",BT Sport 1
-http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
+http://93.152.174.144:4000/play/btsport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png" group-title="SPORTS",BT Sport 2
-http://stream.tvtap.live:8081/live/bt220.stream/chunks.m3u8
+http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-3-uk.png" group-title="SPORTS",BT Sport 3
-http://stream.tvtap.live:8081/live/bt220.stream/chunks.m3u8
+http://93.152.174.144:4000/play/btsport3/index.m3u8
 #EXTINF:-1 tvg-logo="http://vip-tv.biz/uploads/posts/2020-05/1589877958_1589711479_1587969202_setanta1.png" group-title="SPORTS",  Setanta Sports 1
 http://92.43.140.204/s81/01.m3u8
 #EXTINF:-1 tvg-logo="http://vip-tv.biz/uploads/posts/2020-05/1589960575_1589716161_1587972400_setanta2.png" group-title="SPORTS",  Setanta Sports 2
@@ -439,13 +439,13 @@ http://ott-cdn.ucom.am/s81/03.m3u8?tla
 http://ott-cdn.ucom.am/s81/03.m3u8?tla
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="SPORTS",Sony Ten 1
-https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
+http://180.178.130.180:8000/play/a03m/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="SPORTS",Sony Ten 2
-https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
+http://180.178.130.180:8000/play/a045/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="SPORTS",Sony Ten 3
-https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
+http://180.178.130.180:8000/play/a03s/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/ufY58P.jpg" group-title="SPORTS",Sony Six
-https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/news/2021/06/08/145c5240-c847-11eb-9103-ffb559e11b07_original.png", PPTV HD
 http://77.83.117.60:8888/02_PPTVHD_720p/chunklist.m3u8
 
@@ -583,24 +583,24 @@ http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png",BEIN 3 PREMIUM
 http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", BEIN 1 ID
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=bein1&gumisasakTV=default&sync=0
+http://43.252.237.182:8000/play/a010
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", BEIN 2 ID
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=bein2&gumisasakTV=default&sync=0
+http://43.252.237.182:8000/play/a011
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", BEIN 1 EXTRA
 http://d2.aminouras.xyz/live/9962564400/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", BEIN 2 EXTRA
 http://d4.aminouras.xyz/live/880025552/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS", Bein Sports 1
-http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
+http://93.152.174.144:4000/play/bein1ar/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS", Bein Sports 2
-http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8
+http://93.152.174.144:4000/play/bein2ar/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS", Bein Sports 3
-http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
+http://93.152.174.144:4000/play/bein3ar/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS", Bein Sports 4
-http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
+http://93.152.174.144:4000/play/bein4ar/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS", Bein Sports 5
-http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8
+http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS", Bein Sports 6
 http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS", Bein Sports 7
@@ -727,15 +727,15 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWFhMHwW/logo-kplus-big1.png" group-title="KOREAN", K+
 http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=kplus&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small.png?v=2.0.0.13" group-title="KOREAN", S ONE
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=sone&gumisasakTV=default&sync=0
+http://43.252.237.182:8000/play/a008
 #EXTINF:-1, group-title="KOREAN" tvg-logo="https://i.postimg.cc/nhJSdkS6/logo-sone-big1.png", S ONE (IND SUB)
-https://goldenlivektv.com/mumet-mpd/Khoerul_Television.m3u8?id=sone&Khoerul=default&Television=0
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x1vycVRZ/logo-tvn-big.png" tvg-id="TVN" group-title="KOREAN", TVN
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=tvn&gumisasakTV=default&sync=0
+http://43.252.237.182:8000/play/a00a
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" tvg-id="TVN" group-title="KOREAN", TVN 
-https://goldenlivektv.com/mumet-mpd/Khoerul_Television.m3u8?id=tvn&Khoerul=default&Television=0
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qttp493L/10441080-ico.png" group-title="KOREAN", TVN MOVIES 
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=tvnmovies&gumisasakTV=default&sync=0
+http://43.252.237.182:8000/play/a00b
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_arirang_small.png" group-title="KOREAN", ARIRANG
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/44wFpMr4/logo-kbsw-orld-small.png" group-title="KOREAN", KBS WORLD 
