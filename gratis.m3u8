@@ -122,9 +122,9 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 =====================  (( KIDS ))  =====================
 
 #EXTINF:-1 tvg-ID="" tvg-name="ANIPLUS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="KIDS",ANIPLUS
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=aniplus&gumisasakTV=default&sync=0
+http://43.252.237.182:8000/play/1
 #EXTINF:-1 tvg-ID="" tvg-name="ANIMAX" tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="KIDS", ANIMAX
-https://goldenlivektv.com/Live_TV/Channel_Animax.m3u8
+http://43.252.237.182:8000/play/2
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Px500TzG/Biznet-Kids.jpg" group-title="KIDS", BIZNET KIDS
 http://103.226.232.199:8003/play/a051/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="KIDS", BABY FIRST
@@ -172,25 +172,25 @@ https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg
 ===================== (( HIBURAN )) ==================
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="HIBURAN",AXN
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=axn&gumisasakTV=default&sync=0
+http://43.252.237.182:8000/play/3
 #EXTINF:-1 tvg-id="KIX" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png?v=2.0.0.13" group-title="HIBURAN", KIX
 http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=kix&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="HIBURAN", THRILL
-https://goldenlivektv.com/Live_TV/Channel_Thrill.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="HIBURAN", BLUE ANT ENTERTAINMENT
-http://iptvid.my.id/usee/rock.m3u8?by=iptv_id
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="HIBURAN", BLUE ANT EXTREME
-http://iptvid.my.id/usee/rockext.m3u8?by=iptv_id
+http://43.252.237.182:8000/play/a009
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="HIBURAN", BLUE ENTERTAINMENT
+http://43.252.237.182:8000/play/4
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="HIBURAN", BLUE EXTREME
+http://43.252.237.182:8000/play/a014
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJHvx3nr/mycinema.jpg" group-title="HIBURAN",MY CINEMA
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=mycinema&gumisasakTV=default&sync=0
+http://43.252.237.182:8000/play/a006
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_new-mycinemaasia_small.png" group-title="HIBURAN",MY CINEMA ASIA
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=mycinemaasia&gumisasakTV=default&sync=0
+http://43.252.237.182:8000/play/a005
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_new-myfamily_small.png" group-title="HIBURAN",MY CINEMA FAMILY
 http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=myfamily&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KzBHFDYf/hits.png" group-title="HIBURAN",HITS
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=hits&gumisasakTV=default&sync=0
+http://43.252.237.182:8000/play/a002
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_new-hitsmovie_small.png" group-title="HIBURAN",HITS MOVIES
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=hitsmovie&gumisasakTV=default&sync=0
+http://43.252.237.182:8000/play/a00w
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="HIBURAN", FLIK
 http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=flik&gumisasakTV=default&sync=0 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="HIBURAN", IMC 
@@ -243,7 +243,7 @@ http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=celestialmovie&gum
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="MOVIES", CELESTIAL MOVIE
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CHGDGns/MCE.png" group-title="MOVIES", CINEMA EUROPE
-https://feed.play.mv/live/10005200/Ts9R8pNNTP/master.m3u8
+http://43.252.237.182:8000/play/a013
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="MOVIES", CINEMA WORLD 
 https://goldenlivektv.com/Live_TV/Channel_Cinemaworld.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" group-title="MOVIES", GALAXY
@@ -252,7 +252,7 @@ http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=galaxy&gumisasakTV
 http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=galaxypremium&gumisasakTV=default&sync=0
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="https://i.ibb.co/WHS5GLc/fox.png" group-title="MOVIES",FOX
-http://58.65.171.202:8000/play/3111/index.m3u8
+http://43.252.237.182:8000/play/a00g
 #EXTINF:-1 tvg-id="" tvg-name="FOX ACTION MOVIES ID" tvg-logo="https://i.ibb.co/zHYS8sP/foxactionmovies.png" group-title="MOVIES",FOX ACTION MOVIES
 #EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES" tvg-logo="https://i.ibb.co/9WJBzBH/foxmovies.png" group-title="MOVIES",FOX MOVIES
 #EXTINF:-1 tvg-id="" tvg-name="FOX CRIME" tvg-logo="https://i.ibb.co/Ch6wScc/foxcrime.png" group-title="MOVIES",FOX CRIME
@@ -260,13 +260,13 @@ http://58.65.171.202:8000/play/3111/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="https://i.ibb.co/N2QyPx7/foxlife.png" group-title="MOVIES",FOX LIFE
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5Ng3X8Rd/10626165-ico.png" group-title="MOVIES",HBO
-https://test.mbed.cc/anticurl/hbo.m3u8
+http://43.252.237.182:8000/play/a00i
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JhDcYv4M/10626274-ico.png" group-title="MOVIES",HBO FAMILY
-https://test.mbed.cc/anticurl/hbofam.m3u8
+http://43.252.237.182:8000/play/a00j
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VkNFn5xS/10626238-ico.png" group-title="MOVIES",HBO HITS
-https://test.mbed.cc/anticurl/hbohits.m3u8
+http://43.252.237.182:8000/play/a00k
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjPk4Btd/10626267-ico.png" group-title="MOVIES",HBO SIGNATURE
-https://test.mbed.cc/anticurl/hbosig.m3u8
+http://43.252.237.182:8000/play/a00l
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="MOVIES",CINEMAX
 https://test.mbed.cc/anticurl/hbomax.m3u8
 
@@ -351,9 +351,9 @@ http://103.226.232.199:8005/play/a062/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.eu-west-1.amazonaws.com/static.fimewc.com/wp-content/uploads/2021/10/ChampionTV4_Logo-1200x551.jpg" group-title="SPORTS", CHAMP TV 4
 http://103.226.232.199:8005/play/a084/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_useesport_small.png" group-title="SPORTS", USEESPORTS 1
-http://43.252.237.182:8000/play/a00d
+https://dik.si/SEuseeSport1?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_useesports2_small.png" group-title="SPORTS", USEESPORTS 2
-http://43.252.237.182:8000/play/a00e
+https://dik.si/SEuseeSPorts_2?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="SPORTS", USEESPORTS 1
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="SPORTS", USEESPORTS 2
@@ -371,22 +371,21 @@ http://178.175.132.170:8888/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title="SPORTS", Fox Sport 3
 http://178.175.132.170:8888/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="AS1" tvg-logo="https://static.epg.best/my/AstroSuperSport.my.png" group-title="SPORTS",Astro Supersport 1
-http://iptv.jinggo-zone.cf:8080/F14741/cfe49823/146068
 #EXTINF:-1 tvg-id="AS2" tvg-logo="https://static.epg.best/my/AstroSuperSport2.my.png" group-title="SPORTS",Astro Supersport 2
-http://iptv.jinggo-zone.cf:8080/F14741/cfe49823/157556
 #EXTINF:-1 tvg-id="AS3" tvg-logo="https://static.epg.best/my/AstroSuperSport3.my.png" group-title="SPORTS",Astro Supersport 3
-http://iptv.jinggo-zone.cf:8080/F14741/cfe49823/157557
 #EXTINF:-1 tvg-id="AS4" tvg-logo="https://static.epg.best/my/AstroSuperSport4.my.png" group-title="SPORTS",Astro Supersport 4
-http://iptv.jinggo-zone.cf:8080/F14741/cfe49823/157558
+
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",True Premier HD 1
-http://200.126.115.156:8000/play/a0i7/index.m3u8
+https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",True Premier HD 2
-http://103.226.232.199:8005/play/a064/index.m3u8
+https://www.wopep.com/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",True Premier HD 3
+https://www.wopep.com/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png",True Premier HD 4
+https://www.wopep.com/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png",True Premier HD 5
-
+https://www.wopep.com/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",True Premier Football HD 1
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",True Premier Football HD 2
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",True Premier Football HD 3
@@ -395,7 +394,9 @@ http://103.226.232.199:8005/play/a064/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_sports_mm_hd.png" group-title="SPORTS",SkyNet Sports HD
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_sports_mm.png" group-title="SPORTS",SkyNet Sports 1
+http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_sports_mm.png" group-title="SPORTS",SkyNet Sports 2
+http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_sports_mm.png" group-title="SPORTS",SkyNet Sports 3
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_sports_mm.png" group-title="SPORTS",SkyNet Sports 4
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_sports_mm.png" group-title="SPORTS",SkyNet Sports 5
@@ -526,13 +527,13 @@ http://31.220.41.88:8081/live/fr-sfr2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-4-fr.png" group-title="SPORTS 2",RMC Sport 4
 
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png",true sport  HD 1
-http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
+https://www.wopep.com/02_2sporthd1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_320.png",true sport  HD 2
-http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
+https://www.wopep.com/02_2sporthd2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_320.png",true sport  HD 3
-http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
+https://www.wopep.com/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_320.png",true sport  HD 4
-http://77.83.117.60:8888/02_2sporthd4_720p/chunklist.m3u8
+https://www.wopep.com/02_2sporthd4_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",true sport 2
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",true sport 5
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",true sport 6
