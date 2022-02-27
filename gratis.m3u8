@@ -578,34 +578,34 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 =================  (( BEIN SPORTS )) ===============
 
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png" group-title="BEIN SPORTS",BEIN 1 PREMIUM
-http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
+http://195.154.182.197:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png" group-title="BEIN SPORTS",BEIN 2 PREMIUM
-http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
+http://195.154.182.197:8000/play/a00m/index.m3u8
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png",BEIN 3 PREMIUM
-http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", BEIN 1 ID
-http://43.252.237.182:8000/play/a010
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", BEIN 2 ID
-http://43.252.237.182:8000/play/a011
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", BEIN 1 EXTRA
-http://d2.aminouras.xyz/live/9962564400/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", BEIN 2 EXTRA
-http://d4.aminouras.xyz/live/880025552/index.m3u8
+http://195.154.182.197:8000/play/a00n/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", BEIN 1 FR
+http://195.154.182.197:8000/play/a00q/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", BEIN 2 FR
+http://195.154.182.197:8000/play/a00r/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", BEIN 1 ENG
+http://195.154.182.197:8000/play/a00o/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", BEIN 2 ENG
+http://195.154.182.197:8000/play/a00p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS", Bein Sports 1
-http://93.152.174.144:4000/play/bein1ar/index.m3u8
+http://195.154.182.197:8000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS", Bein Sports 2
-http://93.152.174.144:4000/play/bein2ar/index.m3u8
+http://195.154.182.197:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS", Bein Sports 3
-http://93.152.174.144:4000/play/bein3ar/index.m3u8
+http://195.154.182.197:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS", Bein Sports 4
-http://93.152.174.144:4000/play/bein4ar/index.m3u8
+http://195.154.182.197:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS", Bein Sports 5
-http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
+http://195.154.182.197:8000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS", Bein Sports 6
-http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
+http://195.154.182.197:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS", Bein Sports 7
-http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
+http://195.154.182.197:8000/play/a00k/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS", Bein Sports 8
 http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS", Bein Sports 9
