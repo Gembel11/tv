@@ -746,24 +746,26 @@ http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://static.epg.best/kr/SBS.kr.png" ,KBC TV
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://static.epg.best/kr/SBS.kr.png" ,SBS HD
-https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
+http://ye23.win/iptv/sbs5.1.php?id=S01
+#EXTINF:-1 group-title="KOREAN" tvg-logo="https://static.epg.best/kr/SBS.kr.png" ,SBS SPORTS
+http://ye23.win/iptv/sbs5.1.php?id=S02
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://static.epg.best/kr/SBSPlus.kr.png" ,SBS PLUS
-http://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
+http://ye23.win/iptv/sbs5.1.php?id=S03
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://static.epg.best/kr/tvN.kr.png" ,TVN KR
 http://140.238.16.178:9876/stream/channelid/333743197
 #EXTINF:0 group-title="KOREAN" tvg-logo="https://i.imgur.com/I4Z8R02.jpg", KBS 1
-http://51.81.66.195:1935/krtv/kbs1_540/playlist.m3u8
+http://ye23.vip/z7z8/2021/kbs2020.php?id=1
 #EXTINF:0 group-title="KOREAN" tvg-logo="https://i.imgur.com/TPAaSO9.png", KBS 2
-http://51.81.66.195:1935/krtv/kbs2_540/playlist.m3u8
+http://ye23.vip/z7z8/2021/kbs2020.php?id=2
 #EXTINF:0 group-title="KOREAN" tvg-logo="https://i.imgur.com/kTPYn2E.jpg", MBC
 http://51.81.66.195:1935/krtv/mbc_540/playlist.m3u8
 #EXTINF:0 group-title="KOREAN" tvg-logo="https://i.imgur.com/pnNXFrT.png", MNET
 http://95.217.44.77:80/mnet/index.m3u8
 
 #EXTINF:-1 tvg-id="YTN.KR" tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="KOREAN",YTN
-http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
+http://ye23.win/iptv/korea2021.php?id=ytn
 #EXTINF:-1 tvg-logo="https://trickyoutsider.com/wp-content/uploads/2019/09/Running-Man-1.png" group-title="KOREAN",RUNNING MAN TV
-http://121.12.115.162/txdirect.hls.huya.com/src/1250011-1250011-5368756364640256-2777071322-10057-A-0-1.m3u8
+http://dyscdnali1.douyucdn.cn/live/131977rb5GOrl6uS.flv
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="KOREAN",KOREAN
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
