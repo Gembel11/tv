@@ -343,13 +343,13 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 ===================  (( Olahraga ))  ==================
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SPORTS", CHAMP TV 1
-http://103.226.232.199:8005/play/a060/index.m3u8
+http://begaltvku.site/ventidos/master-6.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="SPORTS", CHAMP TV 2
-http://103.226.232.199:8005/play/a061/index.m3u8
+http://begaltvku.site/ventidos/master-7.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J0ngQJZ9/Champion-3.png" group-title="SPORTS", CHAMP TV 3
-http://103.226.232.199:8005/play/a062/index.m3u8
+http://begaltvku.site/ventidos/master-8.m3u8
 #EXTINF:-1 tvg-logo="https://s3.eu-west-1.amazonaws.com/static.fimewc.com/wp-content/uploads/2021/10/ChampionTV4_Logo-1200x551.jpg" group-title="SPORTS", CHAMP TV 4
-http://103.226.232.199:8005/play/a084/index.m3u8
+http://begaltvku.site/ventidos/master-9.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_useesport_small.png" group-title="SPORTS", USEESPORTS 1
 https://dik.si/SEuseeSport1?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_useesports2_small.png" group-title="SPORTS", USEESPORTS 2
@@ -394,34 +394,28 @@ https://www.wopep.com/02_PremierHD5_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_sports_mm_hd.png" group-title="SPORTS",SkyNet Sports HD
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_sports_mm.png" group-title="SPORTS",SkyNet Sports 1
-http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_sports_mm.png" group-title="SPORTS",SkyNet Sports 2
-http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_sports_mm.png" group-title="SPORTS",SkyNet Sports 3
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_sports_mm.png" group-title="SPORTS",SkyNet Sports 4
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_sports_mm.png" group-title="SPORTS",SkyNet Sports 5
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_sports_mm.png" group-title="SPORTS",SkyNet Sports 6
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV1.pt.png" group-title="SPORTS",SPORT TV 1
-#EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV2.pt.png" group-title="SPORTS",SPORT TV 2
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_spotv_small.png" group-title="SPORTS",SPOTV 1
+http://ott-navigator.my.id/usee/index.m3u8?live=spotv&type=url&streamtype=hls
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_spotv2_small.png" group-title="SPORTS",SPOTV 2
+http://ott-navigator.my.id/usee/index.m3u8?live=spotv2&type=url&streamtype=hls
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV3.pt.png" group-title="SPORTS",SPORT TV 3
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV4.pt.png" group-title="SPORTS",SPORT TV 4
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV5.pt.png" group-title="SPORTS",SPORT TV 5
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV1.pt.png" group-title="SPORTS",SPORT TV 1HD
-http://51.154.223.105:8000/play/a0jp/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV2.pt.png" group-title="SPORTS",SPORT TV 2HD
-http://51.154.223.105:8000/play/a0jq/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV3.pt.png" group-title="SPORTS",SPORT TV 3HD
-
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV4.pt.png" group-title="SPORTS",SPORT TV 4HD
-
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV5.pt.png" group-title="SPORTS",SPORT TV 5HD
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ogiX67s7-ngXWADPdP7Oo3k7uQiHHG6V5A&usqp=CAU",BT Sport 1 HD
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_y1y9xW3DmWRguard-I1R8QYBkvV5p8KGCg&usqp=CAU",BT Sport 2 HD
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_nFv0hF0YjEtd7GkPn207jzQb9Z_Z29rqwg&usqp=CAU",BT Sport 3 HD
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png" group-title="SPORTS",BT Sport 1
@@ -439,13 +433,14 @@ http://ott-cdn.ucom.am/s81/03.m3u8?tla
 #EXTINF:-1 tvg-logo="http://vip-tv.biz/uploads/posts/2020-05/1589960575_1589716161_1587972400_setanta2.png" group-title="SPORTS",  Setanta Sports 2 HD
 http://ott-cdn.ucom.am/s81/03.m3u8?tla
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="SPORTS",Sony Ten 1
-http://180.178.130.180:8000/play/a03m/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="SPORTS",Sony Ten 2
-http://180.178.130.180:8000/play/a045/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="SPORTS",Sony Ten 3
-http://180.178.130.180:8000/play/a03s/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/ufY58P.jpg" group-title="SPORTS",Sony Six
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="SPORTS",SONY TEN 1HD
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/153768.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="SPORTS",SONY TEN 2HD
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/153770.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="SPORTS",SONY TEN 3HD
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/153772.ts	
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/ufY58P.jpg" group-title="SPORTS",SONY SIX
+http://iptv12k.com:35461/8022022301/468985/1937
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/news/2021/06/08/145c5240-c847-11eb-9103-ffb559e11b07_original.png", PPTV HD
 http://77.83.117.60:8888/02_PPTVHD_720p/chunklist.m3u8
@@ -577,20 +572,18 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 
 =================  (( BEIN SPORTS )) ===============
 
-#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png" group-title="BEIN SPORTS",BEIN 1 PREMIUM
-http://195.154.182.197:8000/play/a00l/index.m3u8
-#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png" group-title="BEIN SPORTS",BEIN 2 PREMIUM
-http://195.154.182.197:8000/play/a00m/index.m3u8
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png",BEIN 3 PREMIUM
-http://195.154.182.197:8000/play/a00n/index.m3u8
+#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png" group-title="BEIN SPORTS",BEIN 1 ENG
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png" group-title="BEIN SPORTS",BEIN 2 ENG
+http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png",BEIN 3 ENG
+http://125.209.88.166:45793/BRN/beINSP13.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", BEIN 1 FR
-http://195.154.182.197:8000/play/a00q/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", BEIN 2 FR
-http://195.154.182.197:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", BEIN 1 ENG
-http://195.154.182.197:8000/play/a00o/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", BEIN 2 ENG
-http://195.154.182.197:8000/play/a00p/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS", Bein Sports 1
 http://195.154.182.197:8000/play/a00c/index.m3u8
