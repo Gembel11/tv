@@ -419,11 +419,11 @@ http://ott-navigator.my.id/usee/index.m3u8?live=spotv2&type=url&streamtype=hls
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_nFv0hF0YjEtd7GkPn207jzQb9Z_Z29rqwg&usqp=CAU",BT Sport 3 HD
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png" group-title="SPORTS",BT Sport 1
-http://93.152.174.144:4000/play/btsport1/index.m3u8
+https://birutv.com/sport@birutv/live/bt1.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png" group-title="SPORTS",BT Sport 2
-http://93.152.174.144:4000/play/btsport2/index.m3u8
+https://birutv.com/sport@birutv/live/bt2.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-3-uk.png" group-title="SPORTS",BT Sport 3
-http://93.152.174.144:4000/play/btsport3/index.m3u8
+https://birutv.com/sport@birutv/live/bt3.m3u8
 #EXTINF:-1 tvg-logo="http://vip-tv.biz/uploads/posts/2020-05/1589877958_1589711479_1587969202_setanta1.png" group-title="SPORTS",  Setanta Sports 1
 http://92.43.140.204/s81/01.m3u8
 #EXTINF:-1 tvg-logo="http://vip-tv.biz/uploads/posts/2020-05/1589960575_1589716161_1587972400_setanta2.png" group-title="SPORTS",  Setanta Sports 2
@@ -434,13 +434,13 @@ http://ott-cdn.ucom.am/s81/03.m3u8?tla
 http://ott-cdn.ucom.am/s81/03.m3u8?tla
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="SPORTS",SONY TEN 1HD
-http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/153768.ts
+http://103.55.144.46/hls/sonyten1.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="SPORTS",SONY TEN 2HD
-http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/153770.ts
+http://103.55.144.46/hls/sonyten2.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="SPORTS",SONY TEN 3HD
-http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/153772.ts	
+http://103.55.144.46/hls/sonyten3.m3u8	
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/ufY58P.jpg" group-title="SPORTS",SONY SIX
-http://iptv12k.com:35461/8022022301/468985/1937
+http://103.55.144.46/hls/sonysix.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/news/2021/06/08/145c5240-c847-11eb-9103-ffb559e11b07_original.png", PPTV HD
 http://77.83.117.60:8888/02_PPTVHD_720p/chunklist.m3u8
