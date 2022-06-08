@@ -743,7 +743,7 @@ http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://static.epg.best/kr/SBS.kr.png" ,SBS
 https://cache6.hypera.live/sbs/tracks-v1a1/mono.txt
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://static.epg.best/kr/SBS.kr.png" ,SBS HD
-https://fhs6015-gn-61.lgucdn.com/sbsch6/_definst_/sbsch61.stream/chunklist_w785305126.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NTQ2ODk1ODcsInBhdGgiOiIvc2JzY2g2L19kZWZpbnN0Xy9zYnNjaDYxLnN0cmVhbSIsImR1cmF0aW9uIjoiLTEifQ.atyHWSPPQ2agUHbXS65kUFZyLmvP-kHfhNekrHv4ndo
+https://fhs6011-gn-61.lgucdn.com/sbsch6/_definst_/sbsch61.stream/chunklist_w1028082259.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NTQ2OTU4ODIsInBhdGgiOiIvc2JzY2g2L19kZWZpbnN0Xy9zYnNjaDYxLnN0cmVhbSIsImR1cmF0aW9uIjoiLTEifQ.xV-0NNMaffoWN-SiIyx6Jm6F32I4TX2x-PPV-rIMrTk
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://static.epg.best/kr/SBS.kr.png" ,SBS SPORTS
 http://ye23.win/iptv/sbs5.1.php?id=S02
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://static.epg.best/kr/SBSPlus.kr.png" ,SBS PLUS
