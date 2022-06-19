@@ -977,8 +977,7 @@ https://www.googleapis.com/drive/v3/files/1HFr6h9nh_poApsUdFb6HabqZUYVP30Jt?alt=
 https://www.googleapis.com/drive/v3/files/1f4NzIBBYUKWVliNyO15-EIl8jNsK2YT8?alt=media&key=AIzaSyB7iXCZQYMAkI32ibo6HfuhmbpAz43Asi0
  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="MUSIC", Vita Alvia - Konco Turu (Official Music Video) 
-https://www.googleapis.com/drive/v3/files/17-CeSv5eULNioqfXuVPUmkx-pRk4TB_B?alt=media&key=AIzaSyB7iXCZQYMAkI32ibo6HfuhmbpAz43Asi0
- 
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="MUSIC",UZU TV Music
 http://s1.ma
 
@@ -1024,14 +1023,119 @@ http://109.105.201.198:80/HRT4HD/video.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="OTHER", OTHER 5
 http://83.222.205.65:8080/9volna/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="OTHER", OTHER 6
-
 #EXTINF:0 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="OTHER", OTHER 7
-
 #EXTINF:0 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="OTHER", OTHER 8
-
 #EXTINF:0 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="OTHER", OTHER 9
-
 #EXTINF:0 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="OTHER", OTHER 10
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="OTHER",UZUMAKI TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD", Running Man
+http://epg.112114.xyz/douyu/131977
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD", Running Man 24
+http://epg.112114.xyz/douyu/7298973
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD", 计划！五一节の快乐
+http://epg.112114.xyz/douyu/7528160
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",【回首往事】仨房间画面同步显示
+http://epg.112114.xyz/douyu/1569773
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD", 大星与海绵方块
+http://epg.112114.xyz/douyu/3949681
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD", 美味！蟹黄堡
+http://epg.112114.xyz/douyu/8762358
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",海绵与大星直播间
+http://epg.112114.xyz/douyu/2250349
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",【猫和老鼠】汤姆和杰瑞童年回忆
+http://epg.112114.xyz/douyu/7888428
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",【柯南】外表看似小孩，智慧却过于常人
+http://epg.112114.xyz/douyu/6484910
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD", 江户川柯南，是一个蒸蛋
+http://epg.112114.xyz/douyu/5377297
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD", 万年如一柯播南，各位给点电费吧
+http://epg.112114.xyz/douyu/1783144
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",【三笠】根本不存在解不开的迷!
+http://epg.112114.xyz/douyu/7050342
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",【超级赛亚人】悟吉塔
+http://epg.112114.xyz/douyu/7190773
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD", 草帽丶海贼团的直播间
+http://epg.112114.xyz/douyu/997925
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD", Hunter X Hunter
+http://epg.112114.xyz/douyu/6610883
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD", 少女与半妖
+http://epg.112114.xyz/douyu/7422897
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD", 宝可梦加油。感谢大家。
+http://epg.112114.xyz/douyu/9765742
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD", 星矢-燃烧吧我的小宇宙
+http://epg.112114.xyz/douyu/8458270
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD", 松开的手0.0
+http://epg.112114.xyz/douyu/10210568
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD", 浦饭幽游藏马飞影桑原
+http://epg.112114.xyz/douyu/9938431
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",【童年往事】仨房间画面同步显示点播
+http://epg.112114.xyz/douyu/7256376
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD", 妖精的直播间
+http://epg.112114.xyz/douyu/5960746
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",【天使点播】动漫直播间
+http://epg.112114.xyz/douyu/1487654
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",【动漫】超燃怀旧经典
+http://epg.112114.xyz/douyu/1174353
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD", 动漫热血木叶忍者草帽路飞青春
+http://epg.112114.xyz/douyu/206858
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD", 动漫二次元#补番推荐#
+http://epg.112114.xyz/douyu/9429545
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",【动画电影】童年回忆
+http://epg.112114.xyz/douyu/10395973
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",【星星动画】童年热血搞笑爱情
+http://epg.112114.xyz/douyu/4369939
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",【追忆】国语超清动画电影
+http://epg.112114.xyz/douyu/6449849
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD", 卡面来打
+http://epg.112114.xyz/douyu/1218414
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",【动漫】24小时不间断动漫专场
+http://epg.112114.xyz/douyu/7493575
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD", 老爹:还有一件事
+http://epg.112114.xyz/douyu/7134757
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD", 开心锤锤，开心快乐每一天！
+http://epg.112114.xyz/douyu/9018297
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD", 舔狗波比的幸福生活
+http://epg.112114.xyz/douyu/7620081
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD", 最好看的搞笑篮球动
+http://epg.112114.xyz/douyu/9401305
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",【动漫】记录你的王者峡谷生活~
+http://epg.112114.xyz/douyu/9360149
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",【小叮当】童年经典动画片
+http://epg.112114.xyz/douyu/9445279
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD", 二次元放映室，有呐味儿了!
+http://epg.112114.xyz/douyu/8912038
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD", 中二日记搞笑日常更新
+http://epg.112114.xyz/douyu/9505575
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD", 动漫推荐官方直播间
+http://epg.112114.xyz/douyu/5187099
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",【经典动漫】9455567
+http://epg.112114.xyz/douyu/9455567
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD", 鲁过一世的直播间
+http://epg.112114.xyz/douyu/9716515
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD", 星海璃幻V的直播间
+http://epg.112114.xyz/douyu/9567313
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD", 铁头与橘子（每周更新一起看霸总）
+http://epg.112114.xyz/douyu/9450942
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD", 笑出腹肌动漫0
+http://epg.112114.xyz/douyu/8380708
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",【神剧】经典神剧
+http://epg.112114.xyz/douyu/3700024
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",【贝爷MAX厅】科幻动作经典喜剧
+http://epg.112114.xyz/douyu/4332
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",【贝爷影厅】经典科幻动作灾难巨兽
+http://epg.112114.xyz/douyu/252802
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",【女神金】60帧极致蓝光刀刀陪看
+http://epg.112114.xyz/douyu/747764
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",【西游】由爱故生怨，怨恨交缠，那又何苦
+http://epg.112114.xyz/douyu/9518204
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD", 狄仁杰：想听听我的故事吗
+http://epg.112114.xyz/douyu/674441
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",【牛叔】N分钟带你看完大片
+http://epg.112114.xyz/douyu/2758565
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",【科幻Fans】精彩科幻影视，解说连连看
+http://epg.112114.xyz/douyu/3508304
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD", 最新奇幻电影解说-宇宙无敌韩三金
+http://epg.112114.xyz/douyu/3194372
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",UZUMAKI TV
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
