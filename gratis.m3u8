@@ -172,7 +172,7 @@ https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg
 ===================== (( HIBURAN )) ==================
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="HIBURAN",AXN
-http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
+http://iptvid.my.id/hmm/axn.m3u8?by=iptv_id
 #EXTINF:-1 tvg-id="KIX" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png?v=2.0.0.13" group-title="HIBURAN", KIX
 http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="HIBURAN", THRILL
@@ -205,7 +205,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=55479c55ebd1efd3ff125f1337100388102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="http://i.ibb.co/DtJ1jkg/citradrama.png" group-title="HIBURAN", CITRA DRAMA
 http://iptvid.my.id/usee/cdrama.m3u8?by=iptv_id
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png?v=2.0.0.13" group-title="HIBURAN", Dunia Lain
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png?v=2.0.0.13" group-title="HIBURAN", DUNIA LAIN
 http://iptvid.my.id/usee/dnln.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fyW26j0h/drakor-plus.png" group-title="HIBURAN",DRAKOR PLUS
 https://andriant.net/andrian.m3u8?channel=drakorplus
@@ -291,9 +291,9 @@ https://hboasialive.akamaized.net/hls/live/2007805/SIG/index.m3u8?hdnts=exp=1638
 
 
 #EXTINF:-1 tvg-id="PAR.US" tvg-logo="https://www.useetv.com/pimages/logo_new-paramount_small.png" group-title="MOVIES",PARAMOUNT TV
-https://feed.play.mv/live/10005200/zC2aLVTjgF/master.m3u8
+http://iptvid.my.id/hmm/paramount.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png?v=2.0.0.13" group-title="MOVIES", WARNER TV
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=warner&gumisasakTV=default&sync=0
+http://iptvid.my.id/hmm/wrnr.m3u8?by=iptv_id
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/JOJ_WAU_TV.jpg/220px-JOJ_WAU_TV.jpg" group-title="MOVIES",WAU HD
 http://91.236.82.77/hls/wau-540.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qBX1YMrs/WOW-TV.png" group-title="MOVIES",WOW TV
@@ -641,7 +641,7 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 =================  KNOWLEDGE  ================
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_afc_small.png" group-title="KNOWLEDGE",AFN
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=afc&gumisasakTV=default&sync=0
+http://iptvid.my.id/hmm/afc.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://bit.ly/3vqsxBV" group-title="KNOWLEDGE", ANIMAL PLANET
 http://50.7.161.82:8277/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="KNOWLEDGE", DISCOVERY HD
@@ -650,12 +650,12 @@ https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
 https://feed.play.mv/live/1009/TRKXs71yTR/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="KNOWLEDGE", DISCOVERY TURBO
 https://feed.play.mv/live/1009/1UjOk2jBiR/master.m3u8
-#EXTINF:-1 tvg-id="NATGEO" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="KNOWLEDGE", NATIONAL GEOGRAPHIC
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=natgeo&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-id="NATGEO" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="KNOWLEDGE", NATIONAL GEO
+http://iptvid.my.id/hmm/natgeo.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?v=2.0.0.13" group-title="KNOWLEDGE", NAT GEO PEOPLE
 http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=natgeopeople&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="KNOWLEDGE", NAT GEO WILD
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=natgeowild&gumisasakTV=default&sync=0
+http://iptvid.my.id/hmm/ngwild.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png" group-title="KNOWLEDGE", CRIME INVESTIGATION
 http://iptvid.my.id/usee/crime.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png" group-title="KNOWLEDGE", CRIME INVESTIGATION
@@ -716,20 +716,24 @@ http://103.226.232.199:8005/play/a04n/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="NEWS", NEWS
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 
-===================  (( KOREAN ))  ===================
+   (( KOREAN ))  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWFhMHwW/logo-kplus-big1.png" group-title="KOREAN", K+
 http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWFhMHwW/logo-kplus-big1.png" group-title="KOREAN", K+ (USEE)
+http://iptvid.my.id/hmm/kplus.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small.png?v=2.0.0.13" group-title="KOREAN", S ONE
 http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
-#EXTINF:-1, group-title="KOREAN" tvg-logo="https://i.postimg.cc/nhJSdkS6/logo-sone-big1.png", S ONE (IND SUB)
-
+#EXTINF:-1, group-title="KOREAN" tvg-logo="https://i.postimg.cc/nhJSdkS6/logo-sone-big1.png", S ONE (USEE)
+http://iptvid.my.id/hmm/sone.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x1vycVRZ/logo-tvn-big.png" tvg-id="TVN" group-title="KOREAN", TVN
 http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" tvg-id="TVN" group-title="KOREAN", TVN 
-
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" tvg-id="TVN" group-title="KOREAN", TVN (USEE)
+http://iptvid.my.id/hmm/tvn.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qttp493L/10441080-ico.png" group-title="KOREAN", TVN MOVIES 
 http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qttp493L/10441080-ico.png" group-title="KOREAN", TVN MOVIES (USEE)
+http://iptvid.my.id/hmm/tvnmovie.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_arirang_small.png" group-title="KOREAN", ARIRANG
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/44wFpMr4/logo-kbsw-orld-small.png" group-title="KOREAN", KBS WORLD 
@@ -759,10 +763,10 @@ http://ye23.win/iptv/korea2021.php?id=ytn
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="KOREAN",KOREAN
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 
-==================  ((( JAPAN )))  ==================
+  ((( JAPAN )))  
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title="JAPAN", S GEM 
-https://goldenlivektv.com/mumet-mpd/Khoerul_Television.m3u8?id=sgem&Khoerul=default&Television=0
+http://iptvid.my.id/hmm/sgem.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title="JAPAN", S GEM
 http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=sgem&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png?v=2.0.0.13" group-title="JAPAN", WAKUWAKU JAPAN
@@ -822,7 +826,30 @@ http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 #EXTINF:-1 tvg-id="WeatherNews.jp" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png" group-title="JAPAN",WEATHER NEWS
 https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="JAPAN",JAPAN
+#EXTINF:0, group-title="JAPAN",Family Gekijo
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:0, group-title="JAPAN",Nihon Eiga Senmon
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:0, group-title="JAPAN",NECO
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1, group-title="JAPAN",Toei Channel
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:0, group-title="JAPAN",Movie Plus
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:0, group-title="JAPAN",Star 1
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:0, group-title="JAPAN",Star 2
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:0, group-title="JAPAN",Star 3
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:0, group-title="JAPAN",WOWOW Cinema
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:0, group-title="JAPAN",WOWOW Prime
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:0, group-title="JAPAN",WOWOW Live
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:0 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="JAPAN",JAPAN
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 
 ===================  (( MALAYSIA ))  ====================
