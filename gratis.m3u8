@@ -745,7 +745,7 @@ http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://static.epg.best/kr/SBS.kr.png" ,SBS
 https://cache6.hypera.live/sbs/tracks-v1a1/mono.txt
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://static.epg.best/kr/SBS.kr.png" ,SBS HD
-https://fhs6010-gn-61.lgucdn.com/sbsch6/_definst_/sbsch61.stream/chunklist_w997626944.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NTU4OTkxMDIsInBhdGgiOiIvc2JzY2g2L19kZWZpbnN0Xy9zYnNjaDYxLnN0cmVhbSIsImR1cmF0aW9uIjoiLTEifQ.nydKiabnelsVNhTThgkh-uuR1pb03dsf9aNNy2lqUeM
+https://fhs6015-gn-61.lgucdn.com/sbsch6/_definst_/sbsch61.stream/chunklist_w2142545052.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NTU5MDI3NjEsInBhdGgiOiIvc2JzY2g2L19kZWZpbnN0Xy9zYnNjaDYxLnN0cmVhbSIsImR1cmF0aW9uIjoiLTEifQ.2mNm1I1r-6tbmEWDcM4fJZhOZpDScjiDPUPDnZXQdgU
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://static.epg.best/kr/tvN.kr.png",TVN KR
 http://140.238.16.178:9876/stream/channelid/333743197
 #EXTINF:0 group-title="KOREAN" tvg-logo="https://i.imgur.com/I4Z8R02.jpg", KBS 1
