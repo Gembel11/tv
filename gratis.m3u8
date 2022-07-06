@@ -54,7 +54,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 #EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/8x378:706x1049/x/photo/2020/10/14/275337875.png" group-title="TV INDO", NUSANTARA TV
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LZNsjW0/mytv.png" group-title="TV INDO", MYTV
-http://iptvid.my.id/usee/mytv.m3u8?by=iptv_id
+http://iptvid.my.id/au/mytv.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSn2gxL/nusantara.png" group-title="TV INDO", NUSANTARA TV
 http://iptvid.my.id/usee/nusantara.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wsj5jWc/ochannel.png" tvg-id="" tvg-name="Ochannel" group-title="TV INDO",OCHANNEL
@@ -721,19 +721,19 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWFhMHwW/logo-kplus-big1.png" group-title="KOREAN", K+
 http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWFhMHwW/logo-kplus-big1.png" group-title="KOREAN", K+ (USEE)
-http://iptvid.my.id/hmm/kplus.m3u8?by=iptv_id
+http://iptvid.my.id/au/kplus.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small.png?v=2.0.0.13" group-title="KOREAN", S ONE
 http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
 #EXTINF:-1, group-title="KOREAN" tvg-logo="https://i.postimg.cc/nhJSdkS6/logo-sone-big1.png", S ONE (USEE)
-http://iptvid.my.id/hmm/sone.m3u8?by=iptv_id
+http://iptvid.my.id/au/sone.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x1vycVRZ/logo-tvn-big.png" tvg-id="TVN" group-title="KOREAN", TVN
 http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" tvg-id="TVN" group-title="KOREAN", TVN (USEE)
-http://iptvid.my.id/hmm/tvn.m3u8?by=iptv_id
+http://iptvid.my.id/au/tvn.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qttp493L/10441080-ico.png" group-title="KOREAN", TVN MOVIES 
 http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qttp493L/10441080-ico.png" group-title="KOREAN", TVN MOVIES (USEE)
-http://iptvid.my.id/hmm/tvnmovie.m3u8?by=iptv_id
+http://iptvid.my.id/au/tvnmovie.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_arirang_small.png" group-title="KOREAN", ARIRANG
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/44wFpMr4/logo-kbsw-orld-small.png" group-title="KOREAN", KBS WORLD 
@@ -747,7 +747,7 @@ https://cache6.hypera.live/hypera/sbs/stream/sbs_480p/chunks.txt
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://static.epg.best/kr/SBS.kr.png" ,SBS HD
 https://cache6.hypera.live/hypera/sbs/stream/sbs_720p/chunks.txt
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://static.epg.best/kr/SBS.kr.png" ,SBS HD
-https://fhs6015-gn-61.lgucdn.com/sbsch6/_definst_/sbsch61.stream/chunklist_w372721433.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NTcxMDgyNTIsInBhdGgiOiIvc2JzY2g2L19kZWZpbnN0Xy9zYnNjaDYxLnN0cmVhbSIsImR1cmF0aW9uIjoiLTEifQ.ArBEh8BpZAQHMfg2gmdWF3veaf1osIIq0_kjNDuwc0E
+https://fhs6010-gn-61.lgucdn.com/sbsch6/_definst_/sbsch61.stream/chunklist_w1429292624.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NTcxMDg5NzEsInBhdGgiOiIvc2JzY2g2L19kZWZpbnN0Xy9zYnNjaDYxLnN0cmVhbSIsImR1cmF0aW9uIjoiLTEifQ.xHGRhgA3pByWiBxrfnIEM1t6yTWE5y-CEHFrvGsZ74g
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://static.epg.best/kr/tvN.kr.png",TVN KR
 http://140.238.16.178:9876/stream/channelid/333743197
 #EXTINF:0 group-title="KOREAN" tvg-logo="https://i.imgur.com/I4Z8R02.jpg", KBS 1
