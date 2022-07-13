@@ -747,7 +747,7 @@ https://cache6.hypera.live/hypera/sbs/stream/sbs_480p/chunks.txt
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://static.epg.best/kr/SBS.kr.png" ,SBS HD
 https://cache6.hypera.live/hypera/sbs/stream/sbs_720p/chunks.txt
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://static.epg.best/kr/SBS.kr.png" ,SBS HD
-https://fhs6010-gn-61.lgucdn.com/sbsch6/_definst_/sbsch61.stream/chunklist_w1429292624.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NTcxMDg5NzEsInBhdGgiOiIvc2JzY2g2L19kZWZpbnN0Xy9zYnNjaDYxLnN0cmVhbSIsImR1cmF0aW9uIjoiLTEifQ.xHGRhgA3pByWiBxrfnIEM1t6yTWE5y-CEHFrvGsZ74g
+https://fhs6010-gn-61.lgucdn.com/sbsch6/_definst_/sbsch61.stream/chunklist_w930026410.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NTc3MTM3OTQsInBhdGgiOiIvc2JzY2g2L19kZWZpbnN0Xy9zYnNjaDYxLnN0cmVhbSIsImR1cmF0aW9uIjoiLTEifQ.VZOLUQF-FWAqUtKhnp3y0mOwQzcixutCOWujs2qnt8Q
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://static.epg.best/kr/tvN.kr.png",TVN KR
 http://140.238.16.178:9876/stream/channelid/333743197
 #EXTINF:0 group-title="KOREAN" tvg-logo="https://i.imgur.com/I4Z8R02.jpg", KBS 1
@@ -1039,13 +1039,13 @@ http://83.222.205.65:8080/9volna/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="OTHER", OTHER 10
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",1. RUNNING MAN 1
-http://epg.112114.xyz/douyu/131977
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",2. RUNNING MAN 2
-http://epg.112114.xyz/douyu/7298973
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",3. SPONGEBOB SQUERPANTS (SUB CHINA)
-http://epg.112114.xyz/douyu/7528160
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",4. SPONGEBOB SQUERPANTS (SUB CHINA)
-http://epg.112114.xyz/douyu/1569773
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",5. SPONGEBOB SQUERPANTS (SUB ENG)
 http://epg.112114.xyz/douyu/8762358
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",6. SPONGEBOB SQUERPANTS (SUB ENG)
@@ -1081,57 +1081,8 @@ http://epg.112114.xyz/douyu/1174353
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",21. MBUH OPO
 http://epg.112114.xyz/douyu/9429545
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",22. MBUH RA NGERTI 
-http://epg.112114.xyz/douyu/4369939
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",23. FILM MBUH
-http://epg.112114.xyz/douyu/1218414
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",24. FILM ANIMASI
-http://epg.112114.xyz/douyu/7493575
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",25. FILM KARTUN
-http://epg.112114.xyz/douyu/7134757
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",26. KARTUN CHINA
-http://epg.112114.xyz/douyu/9018297
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",27. KARTUN BARAT LAWAS
-http://epg.112114.xyz/douyu/7620081
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",28. KARTUN MBUH
-http://epg.112114.xyz/douyu/9401305
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",29. MBUH RA JELAS
-http://epg.112114.xyz/douyu/9360149
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",30. DORAEMON
-http://epg.112114.xyz/douyu/9445279
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",31. ANIME LOVE
-http://epg.112114.xyz/douyu/8912038
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",32. RA MUDENG
-http://epg.112114.xyz/douyu/9505575
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",33. KARTUN MBUH
-http://epg.112114.xyz/douyu/5187099
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",34. ANIME RA NGERTI
-http://epg.112114.xyz/douyu/9455567
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",35. KLIP ANIME
-http://epg.112114.xyz/douyu/9716515
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",36. OST ANIME
-http://epg.112114.xyz/douyu/9567313
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",37. KARTUN CHINA
-http://epg.112114.xyz/douyu/9450942
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",38. PINGUINS
-http://epg.112114.xyz/douyu/8380708
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",39. SERIAL KUNO MANDARIN
-http://epg.112114.xyz/douyu/3700024
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",40. FILM BARAT KIDS
-http://epg.112114.xyz/douyu/4332
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",41. FILM ACTION
-http://epg.112114.xyz/douyu/252802
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",42. FILM COMEDY CHINA
-http://epg.112114.xyz/douyu/747764
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",43. KERA SAKTI
-http://epg.112114.xyz/douyu/9518204
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",44. SERIAL JADUL CHINA
-http://epg.112114.xyz/douyu/674441
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",45. MBUHLAH
-http://epg.112114.xyz/douyu/2758565
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",46. CUPLIKAN FILM 
-http://epg.112114.xyz/douyu/3508304
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",47. CUPLIKAN FILM
-http://epg.112114.xyz/douyu/3194372
+
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VOD",UZUMAKI TV
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
